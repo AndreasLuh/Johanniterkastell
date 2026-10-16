@@ -78,6 +78,7 @@ self.PRECACHE = [
   "icons/apple-touch-icon.png",
   "icons/icon-192.png",
   "icons/icon-512.png",
+  "img/fotos/aubusson-turm.jpg",
   "img/fotos/aubusson-wappen.jpg",
   "img/fotos/carretto.jpg",
   "img/fotos/drei-wappen.jpg",
@@ -110,4 +111,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "f04a2171dd19";
+self.CACHE_VERSION = "a62749587829";

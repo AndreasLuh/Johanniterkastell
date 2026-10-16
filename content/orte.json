@@ -523,7 +523,17 @@
       "themen": ["belagerung-1457"],
       "bilder": {
         "heute": {
+          "src": "img/fotos/aubusson-turm.jpg",
+          "etikett": "Turm",
+          "alt": "Die vieleckige Bastion an der Hafeneinfahrt, vom Wasser aus gesehen, darauf eine griechische Flagge",
+          "credit": "Bukvoed (Wikimedia Commons), 2018",
+          "lizenz": "CC BY 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos-castle-334.jpg",
+          "basis": null
+        },
+        "heute2": {
           "src": "img/fotos/aubusson-wappen.jpg",
+          "etikett": "Wappen",
           "alt": "Wappen des Großmeisters Pierre d'Aubusson im Mauerwerk des Kastells",
           "credit": "Pavlos1988 (Wikimedia Commons), 2015",
           "lizenz": "CC BY-SA 4.0",
@@ -536,7 +546,8 @@
         "Wikipedia, „Siege of Rhodes (1480)“, abgerufen 16.10.2026",
         "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (vieleckige Aubusson-Bastion im Nordwesten, Baubeginn 1489, Sicherung der Hafeneinfahrt, Wappen mit Kardinalshut; ohne eigene Belege)",
         "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Aubusson-Turm“)",
-        "Wikimedia Commons, Pavlos1988: „Coats of arms of Pierre d'Aubusson, Castle of Nerantzia“"
+        "Wikimedia Commons, Pavlos1988: „Coats of arms of Pierre d'Aubusson, Castle of Nerantzia“",
+        "Foto des Turms: Auswahl durch Andreas Luh, 17.10.2026; Zuordnung gestützt auf Form (vieleckige Bastion) und eine Aufnahme desselben Fotografen mit GPS-Angabe vor der Westecke (Commons, „Kos-to-Kalymnos-095926.jpg“)"
       ]
     },
     {
