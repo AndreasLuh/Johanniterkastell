@@ -108,4 +108,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "6d6e1bf253dc";
+self.CACHE_VERSION = "11b83ead7504";
