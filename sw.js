@@ -1,4 +1,4 @@
-// Version 11b83ead7504
+// Version f04a2171dd19
 // Service Worker: speichert alle Dateien und liefert sie offline aus.
 importScripts("precache-list.js");
 const NAME = `kastell-${self.CACHE_VERSION}`;

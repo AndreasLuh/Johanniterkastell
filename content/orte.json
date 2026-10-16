@@ -301,16 +301,27 @@
       "themen": ["bauen-gegen-kanonen"],
       "bilder": {
         "heute": {
-          "src": "img/fotos/eingangshof.jpg",
-          "alt": "Blick im Kastell zurück zum Eingangsbereich",
-          "credit": "Elisa Triolo (Wikimedia Commons), 2010",
-          "lizenz": "CC BY-SA 2.0",
-          "link": "https://commons.wikimedia.org/wiki/File:Inside_Neratzia.jpg",
+          "src": "img/fotos/quadratischer-turm-innen.jpg",
+          "etikett": "Von innen",
+          "alt": "Der Quadratische Turm von innen gesehen, davor antike Säulenreste",
+          "credit": "Tedmek (Wikimedia Commons), 2011",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_for01.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/quadratischer-turm-aussen.jpg",
+          "etikett": "Von außen",
+          "alt": "Der Quadratische Turm von außen, an der Uferpromenade",
+          "credit": "Bukvoed (Wikimedia Commons), 2018",
+          "lizenz": "CC BY 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos-castle-365.jpg",
           "basis": null
         }
       },
       "quellen": [
         "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Quadratischer Turm“)",
+        "Zuordnung der beiden Fotos zum Quadratischen Turm: Andreas Luh nach eigener Ortskenntnis, 17.10.2026",
         "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (viereckige Aubusson-Bastion mit Umlaufgang, neun Geschützscharten, Lüftungsschächten, Treppe; ohne eigene Belege, daher unsicher)",
         "Wikipedia, „Bastion fort“, abgerufen 16.10.2026 (Festungsbau als Antwort auf Feuerwaffen um 1500)"
       ]
@@ -406,16 +417,27 @@
       "themen": ["leben-auf-kos"],
       "bilder": {
         "heute": {
-          "src": "img/fotos/bergfried.jpg",
-          "alt": "Blick über das Innere des Kastells mit Mauern und Turm",
-          "credit": "Pavlos1988 (Wikimedia Commons), 2015",
-          "lizenz": "CC BY-SA 4.0",
-          "link": "https://commons.wikimedia.org/wiki/File:Castle_of_Neratzia_Kos_1.jpg",
+          "src": "img/fotos/innere-burg-hof.jpg",
+          "etikett": "Überblick",
+          "alt": "Blick von oben über den Hof der inneren Burg mit Mauerresten, links ein kantiger Steinbau",
+          "credit": "PaterMcFly (Wikimedia Commons), 2010",
+          "lizenz": "CC BY 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Inside_Neratzia_Castle_Kos.jpg",
+          "basis": null
+        },
+        "heute2": {
+          "src": "img/fotos/innere-burg-block.jpg",
+          "etikett": "Steinbau",
+          "alt": "Kantiger Steinbau mit flachem hellem Dach im Hof, davor antike Säulenreste",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_Knight%27s_Castle_2.jpg",
           "basis": null
         }
       },
       "quellen": [
         "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Burgfried“, „Freilufttheater“)",
+        "Auswahl der beiden Fotos vom Hof der inneren Burg: Andreas Luh nach eigener Ortskenntnis, 17.10.2026",
         "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (Wall auf der Mauerkrone; Nutzung in osmanischer Zeit; ohne eigene Belege)",
         "romeartlover.it, „Kos“, abgerufen 16.10.2026 (innere Burg 1480 nicht eingenommen; unsicher)",
         "Wikipedia, „Siege of Rhodes (1480)“, abgerufen 16.10.2026"

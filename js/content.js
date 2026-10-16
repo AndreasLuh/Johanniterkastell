@@ -78,6 +78,7 @@ export function validateContent(c) {
     pruefeAbschnitte(o.mehr || [], `${wo} (mehr)`, m);
     for (const t of o.themen || []) if (!themenIds.has(t)) m.push(`${wo}: unbekanntes Thema ${t}`);
     pruefeBild(o.bilder?.heute, wo, m, false);
+    pruefeBild(o.bilder?.heute2, wo, m, false);
     pruefeBild(o.bilder?.rekonstruktion, wo, m, true);
     pruefeQuellen(o.quellen, wo, m);
   }

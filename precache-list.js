@@ -79,16 +79,18 @@ self.PRECACHE = [
   "icons/icon-192.png",
   "icons/icon-512.png",
   "img/fotos/aubusson-wappen.jpg",
-  "img/fotos/bergfried.jpg",
   "img/fotos/carretto.jpg",
   "img/fotos/drei-wappen.jpg",
-  "img/fotos/eingangshof.jpg",
   "img/fotos/finikon.jpg",
   "img/fotos/fries.jpg",
   "img/fotos/innere-burg.jpg",
+  "img/fotos/innere-burg-block.jpg",
+  "img/fotos/innere-burg-hof.jpg",
   "img/fotos/kanonen.jpg",
   "img/fotos/luftbild.jpg",
   "img/fotos/platane.jpg",
+  "img/fotos/quadratischer-turm-aussen.jpg",
+  "img/fotos/quadratischer-turm-innen.jpg",
   "img/fotos/spolien.jpg",
   "img/fotos/tor.jpg",
   "img/fotos/von-see.jpg",
@@ -108,4 +110,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "11b83ead7504";
+self.CACHE_VERSION = "f04a2171dd19";

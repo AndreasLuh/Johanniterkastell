@@ -59,25 +59,26 @@ function figur(bild, art) {
     h("figcaption", {}, nachweis, bild.link ? [" · ", h("a", { href: bild.link, target: "_blank", rel: "noopener" }, "Quelle")] : null));
 }
 
+// Ansichten: heute, heute2 (zweites Foto) und rekonstruktion; etikett benennt den Umschaltknopf
 function bildflaeche(bilder) {
-  const heute = bilder?.heute, rek = bilder?.rekonstruktion;
-  if (!heute && !rek) return null;
+  const ansichten = [
+    bilder?.heute && { bild: bilder.heute, art: "heute", etikett: bilder.heute.etikett || "Heute" },
+    bilder?.heute2 && { bild: bilder.heute2, art: "heute", etikett: bilder.heute2.etikett || "Foto 2" },
+    bilder?.rekonstruktion && { bild: bilder.rekonstruktion, art: "rekonstruktion", etikett: "Rekonstruktion" },
+  ].filter(Boolean);
+  if (!ansichten.length) return null;
   const flaeche = h("div", { class: "bildflaeche" });
-  if (heute && rek) {
-    const fHeute = figur(heute, "heute"), fRek = figur(rek, "rekonstruktion");
-    fRek.hidden = true;
-    const bHeute = h("button", { type: "button", class: "an", "aria-pressed": "true" }, "Heute");
-    const bRek = h("button", { type: "button", "aria-pressed": "false" }, "Rekonstruktion");
-    const waehle = zeigeRek => {
-      fHeute.hidden = zeigeRek; fRek.hidden = !zeigeRek;
-      bHeute.classList.toggle("an", !zeigeRek); bRek.classList.toggle("an", zeigeRek);
-      bHeute.setAttribute("aria-pressed", String(!zeigeRek)); bRek.setAttribute("aria-pressed", String(zeigeRek));
+  const figuren = ansichten.map(a => figur(a.bild, a.art));
+  flaeche.append(...figuren);
+  if (ansichten.length > 1) {
+    const knoepfe = ansichten.map((a, i) => h("button", { type: "button", "aria-pressed": "false" }, a.etikett));
+    const waehle = n => {
+      figuren.forEach((f, i) => { f.hidden = i !== n; });
+      knoepfe.forEach((b, i) => { b.classList.toggle("an", i === n); b.setAttribute("aria-pressed", String(i === n)); });
     };
-    bHeute.addEventListener("click", () => waehle(false));
-    bRek.addEventListener("click", () => waehle(true));
-    flaeche.append(fHeute, fRek, h("div", { class: "umschalter", role: "group", "aria-label": "Bild wählen" }, bHeute, bRek));
-  } else {
-    flaeche.append(heute ? figur(heute, "heute") : figur(rek, "rekonstruktion"));
+    knoepfe.forEach((b, i) => b.addEventListener("click", () => waehle(i)));
+    waehle(0);
+    flaeche.append(h("div", { class: "umschalter", role: "group", "aria-label": "Bild wählen" }, knoepfe));
   }
   return flaeche;
 }
