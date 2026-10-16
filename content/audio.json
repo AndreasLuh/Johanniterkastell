@@ -1,0 +1,18 @@
+{
+    "stimme":  "onyx",
+    "modell":  "gpt-4o-mini-tts",
+    "abschnitte":  {
+                       "ort-platane-kurz-1":  {
+                                                  "datei":  "audio/ort-platane-kurz-1.mp3",
+                                                  "hash":  "de0629776f7246b5"
+                                              },
+                       "ort-platane-mehr-1":  {
+                                                  "datei":  "audio/ort-platane-mehr-1.mp3",
+                                                  "hash":  "16c0d57548c90490"
+                                              },
+                       "ort-platane-mehr-2":  {
+                                                  "datei":  "audio/ort-platane-mehr-2.mp3",
+                                                  "hash":  "0b4e4b030c7b6edc"
+                                              }
+                   }
+}

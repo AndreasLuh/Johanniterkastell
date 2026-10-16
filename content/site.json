@@ -1,0 +1,64 @@
+{
+  "titel": "Das Johanniterkastell von Kos",
+  "planBreite": 600,
+  "planHoehe": 820,
+  "kontrollpunkte": [
+    { "lat": 36.8952593, "lon": 27.2909028, "x": 470.7, "y": 597.0 },
+    { "lat": 36.8947582, "lon": 27.2909514, "x": 480.0, "y": 716.8 },
+    { "lat": 36.8975590, "lon": 27.2901225, "x": 321.5, "y": 47.2 },
+    { "lat": 36.8966148, "lon": 27.2889417, "x": 95.7, "y": 272.9 }
+  ],
+  "ausspracheKI": "Französische Namen französisch aussprechen (d'Aubusson, d'Amboise, de Lastic, de Milly, de Villiers de l'Isle-Adam), italienische italienisch (del Carretto, Querini, Carmadino, Narangia), griechische wie im Neugriechischen (Neratzia, Platia Platanou, Antimachia); Kos wie Koss.",
+  "rundgang": [
+    { "id": "platane", "minuten": 8 }
+  ],
+  "einfuehrung": [
+    {
+      "ueberschrift": "Worum es geht",
+      "absaetze": [
+        "Dieser Begleiter führt Sie durch das Kastell Neratzia, die Burg des Johanniterordens am Hafen von Kos. Fast zwei Jahrhunderte, von etwa 1315 bis Anfang 1523, hielten die Ritter die Insel. Ihre Festung ist bis heute das Wahrzeichen der Stadt.",
+        "Zu jedem Ort gibt es einen kurzen Text zum Lesen oder Anhören, eine ausführlichere Vertiefung und, wo möglich, ein Foto sowie eine schematische Rekonstruktion. Dazu kommen Themen, die an keinen bestimmten Ort gebunden sind: wer die Johanniter waren, wie sie auf Kos lebten, wie das Osmanische Reich ins Mittelmeer vordrang, bis Malta und Lepanto.",
+        "Für den Rundgang sollten Sie etwa eineinhalb bis zwei Stunden einplanen. Sie müssen aber nichts vollständig abarbeiten."
+      ]
+    },
+    {
+      "ueberschrift": "Ihr eigener Weg",
+      "absaetze": [
+        "Jedes Handy funktioniert für sich. Niemand muss auf die anderen warten, und niemand sieht, wo die anderen gerade sind.",
+        "Über die Leiste am unteren Bildschirmrand erreichen Sie vier Bereiche. *Plan* zeigt die Burg mit nummerierten Orten; ein Tipp auf eine Nummer öffnet den Ort. *Rundgang* schlägt eine Reihenfolge vom Platz vor dem Kastell durch die Burg vor, ein Angebot, keine Pflicht. *Themen* enthält Hintergründe, die Sie jederzeit lesen können, etwa im Schatten auf einer Mauerbank. *Einführung* führt zu dieser Seite zurück.",
+        "Auf den Seiten der Orte schalten Sie über dem Bild zwischen *Heute* und *Rekonstruktion* um, wo es eine gibt. Unter dem Kurztext öffnet *Mehr lesen* die Vertiefung. Die blauen Schildchen führen zu passenden Themen.",
+        "Was Sie gelesen oder angehört haben, wird mit einem Häkchen markiert. Diese Markierung bleibt nur auf Ihrem eigenen Gerät."
+      ]
+    },
+    {
+      "ueberschrift": "Vorlesen lassen",
+      "absaetze": [
+        "Jeder Text kann vorgelesen werden: Tippen Sie auf den runden Knopf mit dem Dreieck. Mit dem Pausenknopf halten Sie an, mit dem Pfeil rechts springen Sie zum nächsten Abschnitt. Während des Vorlesens bleibt der Bildschirm eingeschaltet.",
+        "Die Texte sind mit einer künstlich erzeugten Stimme aufgenommen, der KI-Stimme Onyx von OpenAI. Die Aufnahmen werden mit dem Begleiter gespeichert und funktionieren deshalb auch ohne Internet.",
+        "Fehlt eine Aufnahme, liest ersatzweise die eingebaute Sprachausgabe Ihres Handys vor. Ohne Internet braucht sie eine gespeicherte deutsche Stimme: auf Android in den Einstellungen unter Sprache bzw. Bedienungshilfen, Punkt Sprachausgabe; auf dem iPhone unter Einstellungen, Bedienungshilfen, Gesprochene Inhalte, Stimmen."
+      ]
+    },
+    {
+      "ueberschrift": "Einmal vorbereiten, dann offline",
+      "absaetze": [
+        "Bereiten Sie den Begleiter einmal im WLAN vor, zum Beispiel im Hotel. Legen Sie ihn *zuerst* auf den Startbildschirm Ihres Handys: auf dem iPhone in Safari das Teilen-Symbol tippen und *Zum Home-Bildschirm* wählen, auf Android in Chrome im Menü mit den drei Punkten *Zum Startbildschirm hinzufügen* oder *App installieren*.",
+        "Öffnen Sie den Begleiter danach über das neue Symbol, geben Sie dort das Passwort ein und warten Sie, bis oben rechts *Für offline bereit* erscheint. Dann sind alle Texte, Bilder, Aufnahmen und der Plan gespeichert, und im Kastell brauchen Sie kein Netz."
+      ]
+    },
+    {
+      "ueberschrift": "Ihr Standort im Plan",
+      "absaetze": [
+        "Im Plan können Sie Ihren Standort anzeigen lassen. Das Handy fragt dann einmal um Erlaubnis. Der Punkt ist auf einige Meter genau; der blasse Kreis um ihn zeigt die Ungenauigkeit. Zwischen hohen Mauern kann die Ortung schlechter sein. Norden ist im Plan oben.",
+        "Wer den Standort nicht freigeben möchte, kann den Plan genauso benutzen."
+      ]
+    },
+    {
+      "ueberschrift": "Gut zu wissen",
+      "absaetze": [
+        "Nach Angabe des griechischen Kulturministeriums ist das Kastell seit April 2026 mittwochs bis montags von 8:30 bis 15:30 Uhr geöffnet, *dienstags geschlossen*; der Eintritt kostet 5 Euro. Bitte prüfen Sie das vor dem Besuch.",
+        "Das Kastell wurde nach den Erdbebenschäden von 2017 restauriert und im September 2025 wieder geöffnet. Einzelne Bereiche können noch gesperrt sein. Auf den Mauern gibt es Stufen, unebene Wege und wenig Schatten.",
+        "Alle historischen Angaben sind mit Quellen belegt; die Liste steht am Ende jeder Seite. Wo die Forschung unsicher ist oder streitet, sagen die Texte das ausdrücklich. Die Rekonstruktionen sind vereinfachte Zeichnungen und keine exakten Bauaufnahmen."
+      ]
+    }
+  ]
+}

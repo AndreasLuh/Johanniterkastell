@@ -1,0 +1,58 @@
+{
+  "orte": [
+    {
+      "id": "platane",
+      "nr": 1,
+      "bereich": "vor",
+      "titel": "Unter der Platane",
+      "untertitel": "Platz vor dem Kastell · Platane, Loggia-Moschee",
+      "lat": 36.8947582,
+      "lon": 27.2909514,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Bevor Sie das Kastell betreten: Sie stehen auf dem Platz der Platane, der Platia Platanou. Jenseits der Palmenallee erheben sich die Mauern der Johanniterburg. Die Ritter nannten sie Narangia, die Insel selbst hieß bei ihnen Lango.",
+            "Die mächtige Platane ist das Wahrzeichen von Kos. Der Überlieferung nach lehrte Hippokrates unter diesem Baum seine Schüler. Das ist eine schöne Legende, mehr nicht: Der heutige Baum wird auf etwa 500 Jahre geschätzt. Er kann also nicht aus der Zeit des Hippokrates stammen, der im 5. Jahrhundert v. Chr. lebte. Vielleicht ist er ein Nachfahre eines älteren Baumes; belegen lässt sich das nicht. Seit 1985 ist die Platane als Naturdenkmal geschützt, eiserne Stützen tragen ihre schweren Äste.",
+            "Stimmt die Schätzung, dann wuchs der Baum ungefähr zu der Zeit heran, als die Johanniter Kos verließen. Um sie geht es auf diesem Rundgang: wie sie diese Festung bauten, wie sie sie gegen die Osmanen hielten und warum sie sie am Ende doch kampflos räumten."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Die Moschee des Gazi Hasan Pascha",
+          "absaetze": [
+            "Der zweigeschossige Bau am Platz ist die Loggia-Moschee. Der Gebetsraum liegt im Obergeschoss; unten führte eine Halle mit fünf Marmorsäulen von der Straße auf den Platz. Eine arabische Inschrift am Brunnen nennt nach Angabe der Gemeinde Kos das Jahr 1786; andere Quellen datieren den Bau auf 1776/77. Gestiftet hat die Moschee Gazi Hasan Pascha, im 18. Jahrhundert Admiral und Großwesir des Osmanischen Reiches.",
+            "Gebaut wurde sie mit Steinen aus älteren Bauten, nach dem koischen Historiker Zarraftis vor allem aus einer frühchristlichen Basilika am Hafen. Das ist dasselbe Prinzip, dem Sie gleich im Kastell begegnen: Wer baute, nahm die Steine, die schon da waren. Das Dach wurde 1996 erneuert, beim Erdbeben von 2017 wurden Minarett und Brunnen beschädigt."
+          ]
+        },
+        {
+          "ueberschrift": "Kos nach den Rittern, ganz kurz",
+          "absaetze": [
+            "Nach dem Abzug der Johanniter Anfang 1523 blieb Kos fast vier Jahrhunderte osmanisch. Im Kastell bauten die neuen Herren an; am 17. März 1816 zerstörte die Explosion eines Pulvermagazins große Teile der Anlage.",
+            "1912 besetzte Italien im Krieg gegen das Osmanische Reich den Dodekanes, 1923 trat die Türkei die Inseln ab. Der italienische Archäologische Dienst entfernte die osmanischen Anbauten und stellte die Burg in ihrer Ritterzeit-Gestalt wieder her. Nach dem Erdbeben von 1933 legten die Italiener zudem große Teile der antiken Stadt frei. Ab September 1943 hielten deutsche Truppen die Insel und nutzten das Kastell als Garnison und Gefängnis. Nach britischer Verwaltung kam der Dodekanes durch den Pariser Frieden von 1947 an Griechenland. Nach dem Erdbeben vom Juli 2017 war das Kastell lange geschlossen; seit September 2025 ist es restauriert wieder zugänglich."
+          ]
+        }
+      ],
+      "themen": [],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/platane.jpg",
+          "alt": "Die Platane des Hippokrates mit eisernen Stützen",
+          "credit": "Heiko Gorski (Wikimedia Commons), 2003",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_Platane1.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „The Plane Tree of Hippocrates“ und „Loggia Mosque“, abgerufen 16.10.2026 (Schutz als Naturdenkmal 1985, FEK 589/B/1985; Inschrift 1786; Zarraftis zur Herkunft der Steine)",
+        "Wikipedia, „Gazi Hasan Pasha Mosque, Loggia“, abgerufen 16.10.2026 (Bauherr, Datierung 1776/77 bzw. 1786, Bauweise, Dach 1996, Schäden 2017)",
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“ (Pulverexplosion 1816, italienische Restaurierung, Garnison und Gefängnis)",
+        "Wikipedia, „Italian Islands of the Aegean“, abgerufen 16.10.2026 (1912, 1923, 1943, 1947)",
+        "Greece 2.0, „Αποκατάσταση κάστρου Νερατζιάς στη Κω“; Kulturministerium, Pressemitteilung zur Wiedereröffnung 25.09.2025",
+        "Alter der Platane: Schätzungen um 500 Jahre (u. a. aegeanislands.gr); unsicher"
+      ]
+    }
+  ]
+}
