@@ -1,3 +1,328 @@
 {
-  "themen": []
+  "themen": [
+    {
+      "id": "johanniter",
+      "titel": "Wer waren die Johanniter?",
+      "untertitel": "Vom Pilgerhospital in Jerusalem über Rhodos nach Malta",
+      "abschnitte": [
+        {
+          "ueberschrift": "Ein Hospital für Pilger",
+          "absaetze": [
+            "Am Anfang stand kein Heer, sondern ein Krankenhaus. Kaufleute aus Amalfi gründeten im 11. Jahrhundert in Jerusalem ein Hospital für Pilger, benannt nach Johannes dem Täufer. Nach dem Ersten Kreuzzug erkannte Papst Paschalis II. die Gemeinschaft 1113 als eigenen Orden an. Daher der volle Name: Orden vom Hospital des heiligen Johannes zu Jerusalem, kurz die Johanniter oder Hospitaliter.",
+            "In den 1120er Jahren, unter dem Meister Raymond du Puy, kam eine zweite Aufgabe hinzu: der bewaffnete Schutz der Pilger und der Kreuzfahrerstaaten. Aus dem Pflegeorden wurde ein Ritterorden. Er hielt bald große Burgen im Heiligen Land, die bekannteste ist der Krak des Chevaliers in Syrien. Die Pflege der Kranken blieb aber Teil seines Auftrags, bis nach Rhodos und Malta."
+          ]
+        },
+        {
+          "ueberschrift": "Mönche mit Schwert",
+          "absaetze": [
+            "Die Ritter des Ordens waren Ordensleute. Sie legten Gelübde ab wie Mönche: Armut, Keuschheit, Gehorsam. Sie lebten nach einer Regel, beteten zu festen Zeiten und unterstanden einem gewählten Meister, später Großmeister genannt. Zugleich waren sie adlige Krieger aus ganz Europa.",
+            "Um diese Vielfalt zu ordnen, gliederte sich der Orden ab 1319 in Zungen, nach Regionen und Sprachen: Auvergne, Frankreich, Provence, Aragon, Italien, Deutschland und England, ab 1462 zusätzlich Kastilien mit Portugal. Jede Zunge hatte am Ordenssitz ein eigenes Haus, die Herberge, und verteidigte im Ernstfall einen eigenen Mauerabschnitt. Die Häuser der Zungen kann man in Rhodos und auf Malta noch heute sehen."
+          ]
+        },
+        {
+          "ueberschrift": "Von Akkon nach Rhodos",
+          "absaetze": [
+            "1291 fiel Akkon, die letzte große Kreuzfahrerstadt. Der Orden wich nach Zypern aus. Von dort eroberte er in den Jahren nach 1306 die Insel Rhodos und machte sie bis 1522 zu seinem Hauptsitz. Als der Templerorden 1312 aufgelöst wurde, fiel dessen Besitz zum großen Teil an die Johanniter.",
+            "Auf Rhodos wurde der Orden zu einer kleinen Seemacht mit eigener Flotte. Kos, Bodrum, Leros, Kalymnos und weitere Inseln bildeten den Vorposten dieses Inselstaates."
+          ]
+        },
+        {
+          "ueberschrift": "Malta und bis heute",
+          "absaetze": [
+            "Nach dem Verlust von Rhodos 1522 war der Orden einige Jahre heimatlos. 1530 überließ ihm Kaiser Karl V. Malta, Gozo und Tripolis. Von da an hießen die Johanniter auch Malteser. 1565 hielten sie Malta gegen eine osmanische Großbelagerung und bauten danach die Festungsstadt Valletta. 1798 besetzten französische Truppen Malta, der Orden verlor seine Insel.",
+            "Fünf Gemeinschaften berufen sich heute auf diese Tradition und erkennen einander an, darunter der katholische Souveräne Malteser-Ritterorden und der evangelische Johanniterorden in Deutschland."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/fotos/fries.jpg",
+        "alt": "Wappenschild über einem antiken Fries mit Masken am Kastell",
+        "credit": "Bukvoed (Wikimedia Commons), 2018",
+        "lizenz": "CC BY 4.0",
+        "link": "https://commons.wikimedia.org/wiki/File:Kos-castle-358.jpg",
+        "basis": null
+      },
+      "quellen": [
+        "Wikipedia, „Knights Hospitaller“, abgerufen 16.10.2026 (Gründung durch Kaufleute aus Amalfi, Anerkennung 1113, Raymond du Puy, Akkon 1291, Zypern, Rhodos 1310, Templergut 1312, Malta 1530, 1565, 1798, heutige Nachfolgeorganisationen)",
+        "Wikipedia, „Langue (Knights Hospitaller)“, abgerufen 16.10.2026, nach E. Bradford, The Shield and the Sword (Zungen ab 1319, Kastilien 1462, Herbergen, Mauerabschnitte)",
+        "A. Luttrell, „The Hospitallers at Rhodes, 1306–1421“, in: K. M. Setton (Hg.), A History of the Crusades, Bd. III (Eroberung von Rhodos ab 1306; nur Auszüge)",
+        "Wikipedia, „Siege of Rhodes (1522)“, abgerufen 16.10.2026 (Malta 1530)"
+      ]
+    },
+    {
+      "id": "leben-auf-kos",
+      "titel": "Leben und Ordnung auf Kos",
+      "untertitel": "Wer hier lebte, wer befahl und wer bezahlte",
+      "abschnitte": [
+        {
+          "ueberschrift": "Was wir wissen und was nicht",
+          "absaetze": [
+            "Über das Leben der Johanniter auf Rhodos ist viel bekannt. Über Kos sind die Quellen dünner, und die Fachliteratur dazu war für diesen Begleiter nur in Auszügen zugänglich. Dieses Kapitel trennt deshalb genau: was belegt ist, was eine einzige Quelle sagt, und was offen bleibt. Wo etwas unsicher ist, steht es dabei."
+          ]
+        },
+        {
+          "ueberschrift": "Eine Insel als Ordensprovinz",
+          "absaetze": [
+            "Kos, bei den Rittern Lango, war nach Rhodos die größte Insel des Ordensstaates. Sie wurde als Ballei verwaltet, eine Art Ordensprovinz. An ihrer Spitze stand ein Ritter als Statthalter, der im Kastell am Hafen saß. Die Verteidigung der Insel stützte sich nicht nur auf dieses Kastell, sondern auch auf befestigte Orte im Inneren: Antimachia, Pyli und Kefalos.",
+            "Belegt sind einzelne Namen solcher Kommandanten, etwa Fantino Querini aus Venedig zwischen 1432 und 1452, der zugleich Kalymnos, Leros und zeitweise Nisyros verwaltete. Später erscheint Edoardo de Carmadino, nach dem das Tor der inneren Burg heißt."
+          ]
+        },
+        {
+          "ueberschrift": "Wer lebte hier?",
+          "absaetze": [
+            "Die meisten Ritter lebten nicht auf Kos, sondern am Ordenssitz in Rhodos. Auf Kos stand eine kleine Besatzung. Ein Blogbeitrag, der sich auf die Ordensforschung stützt, aber keine Belege nennt, beziffert die Pflicht des Statthalters so: 25 Ordensritter, 10 lateinische Waffenknechte, 100 Turkopolen, also leichte Reiter, die vor Ort angeworben wurden, dazu ein Arzt, ein Apotheker mit Arzneien und eine Galeere mit 26 Ruderbänken, voll bemannt. Nach derselben Quelle sollte jeder Ritter ein Jahr auf Kos dienen oder einen Ersatzmann schicken. Diese Zahlen sind plausibel, aber nicht gesichert.",
+            "Die große Mehrheit der Inselbewohner waren Griechen, orthodoxe Christen, die unter der Herrschaft des katholischen Ordens lebten. Im Ernstfall stellten sie die meisten Verteidiger: Bei der Belagerung von 1457 sollen in der Burg Antimachia 15 Ritter und rund 300 Einheimische gekämpft haben."
+          ]
+        },
+        {
+          "ueberschrift": "Wer bezahlte die Burg?",
+          "absaetze": [
+            "Der Orden besaß in ganz Europa Güter, die Kommenden. Ihre Verwalter mussten einen Teil der Erträge an den Ordenssitz schicken. Diese Abgaben hießen Responsionen. Um 1329 sollen sie dem Orden rund 180.000 Florin im Jahr eingebracht haben. Ein Ordenskapitel in Avignon mahnte 1392 ausdrücklich, sie für die Verteidigung von Rhodos regelmäßig zu zahlen, ein Hinweis darauf, dass das nicht immer geschah.",
+            "Aus solchen Einnahmen finanzierte der Orden vermutlich auch seine Festungen. Wie der Bau auf Kos im Einzelnen bezahlt wurde, ist nicht belegt. Die Wappen an den Mauern verraten aber, wer verantwortlich war: Großmeister und Kommandanten setzten ihr Zeichen an das, was unter ihnen entstand."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/fotos/drei-wappen.jpg",
+        "alt": "Drei Wappenschilde über einem Durchgang im Kastell",
+        "credit": "Ad Meskens (Wikimedia Commons), 2013",
+        "lizenz": "CC BY-SA 3.0",
+        "link": "https://commons.wikimedia.org/wiki/File:Kos_Castle_of_the_Knights_Coat_of_Arms_04.JPG",
+        "basis": null
+      },
+      "quellen": [
+        "Abstract zu „Μεσαιωνικά κάστρα και οχυρώσεις της Κω“, academia.edu 1956324 (Kastell als Sitz des Ritter-Gouverneurs, befestigte Siedlungen)",
+        "Pandektis/EKT, „Heraldic Monuments of Greece“ (INE/EIE): Fantino Querini, Kommandant 1432–1452",
+        "J. Graham, Le Crac (Blog), „Narangia Castle, Lango“, 2014 (Besatzungspflicht des Bailli, Dienstjahr der Ritter, Distrikte; ohne Belege, unsicher)",
+        "Gemeinde Kos, kos.gr: „Castle of Antimacheia“ (1457: 15 Ritter, rund 300 Verteidiger)",
+        "Universität Hamburg, „Hospitaller Sources 1392“ (Mahnung zur Zahlung der Responsionen); A. Luttrell in: A History of the Crusades III (Sanudo um 1329: 180.000 Florin; nach Suchauszug)",
+        "Wikipedia, „Turcopole“ und „Bailiff (order)“, abgerufen 16.10.2026",
+        "Finanzierung des Baus auf Kos im Einzelnen: nicht belegt"
+      ]
+    },
+    {
+      "id": "bauen-gegen-kanonen",
+      "titel": "Bauen gegen Kanonen",
+      "untertitel": "Wie das Schießpulver die Burg veränderte",
+      "abschnitte": [
+        {
+          "ueberschrift": "Hohe Mauern, alte Gewissheiten",
+          "absaetze": [
+            "Eine mittelalterliche Burg schützte sich durch Höhe. Hohe, verhältnismäßig dünne Mauern und Türme hielten Leitern, Rammböcke und Wurfmaschinen ab, und von oben ließ sich gut schießen und werfen. Die innere Burg von Kos mit ihren runden Ecktürmen ist ein solcher Bau.",
+            "Pulvergeschütze änderten das grundlegend: Gegen sie halfen hohe, dünne Mauern wenig. 1453 schossen die Osmanen in Konstantinopel Breschen in die Landmauer, die die Stadt fast 800 Jahre geschützt hatte."
+          ]
+        },
+        {
+          "ueberschrift": "Die Lehre von Rhodos",
+          "absaetze": [
+            "1480 belagerte ein osmanisches Heer Rhodos fast drei Monate lang. Die Geschütze feuerten ohne Unterbrechung. Die Stadt hielt, aber nur knapp. Großmeister Pierre d'Aubusson zog daraus die Konsequenz und ließ die Befestigungen von Rhodos, der Burgen auf den Inseln und der Burg von Bodrum modernisieren.",
+            "Auf Kos entstand von etwa 1495 bis 1514 der äußere Mauerring. Er ist niedriger und sehr dick, viermal so groß wie die alte Burg und hat an den Ecken mächtige Bastionen. Die innere Burg blieb stehen, jetzt als Kern in der Mitte."
+          ]
+        },
+        {
+          "ueberschrift": "Woran man den neuen Festungsbau erkennt",
+          "absaetze": [
+            "Achten Sie auf drei Dinge. Erstens die Bastionen: große Plattformen an den Ecken, auf denen eigene Kanonen standen. Die Verteidigung wurde zum Geschützduell. Zweitens die Schießscharten: breit und niedrig, für Rohre statt für Pfeile. Drittens die Masse: Statt in die Höhe wurde in die Breite gebaut, damit Mauern Treffer schlucken konnten.",
+            "Auf der Mauerkrone verlief ein breiter Wall, auf dem Männer und Geschütze Platz hatten. Unten, in Kammern im Mauerinneren, standen weitere Kanonen; Schächte zogen den Pulverdampf ab."
+          ]
+        },
+        {
+          "ueberschrift": "Rund oder spitz",
+          "absaetze": [
+            "Die Bastionen von Kos sind noch rund oder vieleckig. Das hatte eine Schwäche: Vor einer Rundung entsteht ein toter Winkel, den man von den Nachbarmauern aus nicht beschießen kann. In Italien entwickelten Baumeister um 1500 deshalb spitze Bastionen, deren Flanken sich gegenseitig deckten. Ab den 1530er Jahren verbreitete sich diese Bauweise in ganz Europa.",
+            "Kos zeigt also den Übergang: alte Burg im Kern, darum die erste Generation von Artilleriebefestigung. Die nächste Generation bauten die Johanniter auf Malta. Fort St. Elmo hielt 1565 über einen Monat schwerem Beschuss stand, Valletta wurde danach von Grund auf als Festung angelegt."
+          ]
+        }
+      ],
+      "bild": {
+        "src": "img/fotos/luftbild.jpg",
+        "alt": "Luftaufnahme des Kastells mit innerer Burg und äußerem Mauerring am Hafen",
+        "credit": "Arne Müseler (Wikimedia Commons), 2023",
+        "lizenz": "CC BY-SA 3.0 DE",
+        "link": "https://commons.wikimedia.org/wiki/File:Greece_kos_city_neratzia.jpg",
+        "basis": null
+      },
+      "quellen": [
+        "Wikipedia, „Fall of Constantinople“, abgerufen 16.10.2026 (Artillerie 1453, Theodosianische Mauer)",
+        "Wikipedia, „Siege of Rhodes (1480)“ und „Pierre d'Aubusson“, abgerufen 16.10.2026 (Dauerbeschuss 1480; Modernisierung von Rhodos, der Inselburgen und Bodrums)",
+        "Gemeinde Kos, kos.gr; aegeanislands.gr (äußerer Ring 1495–1514, niedrige dicke Mauern, Eckbastionen, Geschützscharten)",
+        "viagallica.com, „Kos Town – Castle Neratzia“ (Fläche vervierfacht, Wall auf der Mauerkrone, Geschützkammern mit Lüftungsschächten; ohne eigene Belege)",
+        "Wikipedia, „Bastion fort“, abgerufen 16.10.2026 (toter Winkel, spitze Bastionen in Italien, Verbreitung ab den 1530er Jahren, Fort St. Elmo 1565)"
+      ]
+    },
+    {
+      "id": "belagerung-1457",
+      "titel": "23 Tage im Juni 1457",
+      "untertitel": "Der erste große Angriff der Osmanen auf Kos",
+      "abschnitte": [
+        {
+          "ueberschrift": "Die Flotte vor der Küste",
+          "absaetze": [
+            "Vier Jahre nach dem Fall von Konstantinopel kam der Krieg nach Kos. Nach der Darstellung der Gemeinde Kos erschien am 3. Juni 1457 eine osmanische Flotte vor der Insel, 156 Schiffe mit 16.000 Mann. Die Zahlen stammen aus der Überlieferung und sind sicher eher zu hoch als zu niedrig; genaue Angaben kennt man für diese Zeit selten.",
+            "Die Angreifer griffen zuerst eine Burg der Ritter an, welche genau, sagt die Quelle nicht, und brannten sie nieder. Dann zogen sie weiter zu den befestigten Orten Palio Pyli und Kefalos. Die Bevölkerung floh in die Burgen."
+          ]
+        },
+        {
+          "ueberschrift": "Antimachia hält",
+          "absaetze": [
+            "Das Ziel, an dem sich alles entschied, war die Burg Antimachia im Inneren der Insel, nicht das Kastell hier am Hafen. 23 Tage lang wurde sie belagert, die schwersten Angriffe fielen nach Angaben des Kulturministeriums zwischen dem 23. und 25. Juni.",
+            "Verteidigt wurde Antimachia von 15 Rittern und rund 300 Menschen, die meisten davon unbewaffnete Einheimische. Am 26. Juni zogen die Osmanen ab, nachdem sie die Burg nicht hatten nehmen können und das Umland verwüstet hatten. Sie sollen über 1.000 Mann verloren haben, die Verteidiger nur 15. Wer in Antimachia, Pyli und Kefalos Zuflucht gefunden hatte, blieb verschont."
+          ]
+        },
+        {
+          "ueberschrift": "Was unsicher ist",
+          "absaetze": [
+            "Die Quellen sind sich nicht einig. Eine Darstellung datiert den ersten schweren Angriff auf 1455 und nennt als Befehlshaber Hamza Bey; der war aber nach anderer Angabe nur bis 1456 Flottenkommandant. Die Verlustzahlen stammen aus der Sicht der Sieger. Gesichert ist: In der Mitte der 1450er Jahre griff eine osmanische Flotte Kos an, und die Burgen hielten.",
+            "Für einen Angriff im Jahr 1464, der manchmal genannt wird, habe ich keinen Beleg gefunden. Andere Angriffe, etwa 1477 und 1480, werden in einzelnen Darstellungen erwähnt, sind aber ebenfalls nicht gut belegt."
+          ]
+        },
+        {
+          "ueberschrift": "Warum Kos?",
+          "absaetze": [
+            "Kos liegt dicht vor der kleinasiatischen Küste, die damals Stück für Stück osmanisch wurde. Man kann die Angriffe so deuten: Für den Sultan waren die christlichen Inseln vor seiner Haustür ein Stachel: Stützpunkte für Galeeren, die seine Schiffe angriffen, und Zufluchtsorte für Gegner. Die Angriffe der 1450er Jahre waren ein erster Versuch, diesen Stachel zu ziehen. Er scheiterte. Erst 1522 gelang es, und zwar nicht auf Kos, sondern auf Rhodos."
+          ]
+        }
+      ],
+      "bild": null,
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of Antimacheia“, abgerufen 16.10.2026 (03.06.1457, 156 Schiffe, 16.000 Mann, Verlauf, 15 Ritter und 300 Verteidiger, Abzug 26.06., Verluste)",
+        "Kulturministerium, odysseus.culture.gr obj_id=19638 (Burg Antimachia: 23 Tage Belagerung, Hauptangriffe 23.–25.06.1457; über Suchergebnis, Seite am 16.10.2026 nicht erreichbar)",
+        "Wikipedia, „Crusades of the 15th century“ (1455, Hamza Bey) und „Hamza Bey“ (Flottenbefehl bis 1456), abgerufen 16.10.2026",
+        "Le Crac (Blog), 2014 (1457 unter Jacques de Milly, 1477; ohne Belege); romeartlover.it, „Kos“ (1480; unsicher)",
+        "1464: in keiner geprüften Quelle belegt"
+      ]
+    },
+    {
+      "id": "rhodos-1522",
+      "titel": "Der Fall von Rhodos und der Abschied von Kos",
+      "untertitel": "Juni 1522 bis Januar 1523",
+      "abschnitte": [
+        {
+          "ueberschrift": "Süleyman kommt",
+          "absaetze": [
+            "Im Sommer 1522 war es so weit. Sultan Süleyman, später der Prächtige genannt, setzte mit einer gewaltigen Streitmacht nach Rhodos über. Die Zahlen schwanken stark; genannt werden 100.000 Mann und mehr, rund 400 Schiffe und schwere Geschütze. Ihnen standen nach einer Angabe 6.703 Verteidiger gegenüber, darunter 703 Ritter aus Spanien, Frankreich, Deutschland, Italien, England und Portugal. Am 26. Juni begann die Belagerung, am 28. Juli traf der Sultan selbst ein.",
+            "Gleichzeitig ließ Süleyman auch gegen Kos und Bodrum vorgehen. Von dort sollte keine Hilfe nach Rhodos kommen."
+          ]
+        },
+        {
+          "ueberschrift": "Ein halbes Jahr Kampf",
+          "absaetze": [
+            "Rhodos hielt monatelang. Die Verluste waren auf beiden Seiten furchtbar; für die Angreifer werden Zehntausende Tote genannt, für die Verteidiger rund 5.000. Im Dezember begannen Verhandlungen über eine Übergabe.",
+            "Am 22. Dezember 1522 nahmen Vertreter der lateinischen und griechischen Einwohner die Bedingungen des Sultans an. Großmeister war damals Philippe Villiers de l'Isle-Adam."
+          ]
+        },
+        {
+          "ueberschrift": "Ehrenvolle Bedingungen",
+          "absaetze": [
+            "Die Bedingungen waren für die Zeit großzügig. Die Ritter erhielten zwölf Tage, um die Insel zu verlassen, und durften Waffen, Wertsachen und Reliquien mitnehmen. Wer bleiben wollte, war fünf Jahre von Steuern befreit, wer gehen wollte, hatte drei Jahre Zeit. Keine Kirche sollte entweiht oder zur Moschee gemacht werden.",
+            "Am 1. Januar 1523 segelten die verbliebenen Ritter mit rund 50 Schiffen ab, begleitet von mehreren Tausend Zivilisten, zunächst nach Kreta, das damals venezianisch war."
+          ]
+        },
+        {
+          "ueberschrift": "Und Kos?",
+          "absaetze": [
+            "Mit Rhodos fielen auch die Außenposten. Die Ritter räumten Kos und Bodrum. Nach einer Angabe besetzten die Osmanen Kos am 5. Januar 1523. Das Kastell, gerade acht Jahre zuvor mit seinem neuen Mauerring vollendet, wechselte ohne Sturm den Besitzer.",
+            "Für den Orden begannen Jahre der Heimatlosigkeit, unter anderem auf Sizilien, bis Kaiser Karl V. ihm 1530 Malta gab. Dort sollte er dem Sultan 1565 noch einmal gegenüberstehen."
+          ]
+        }
+      ],
+      "bild": null,
+      "quellen": [
+        "Wikipedia, „Siege of Rhodes (1522)“, abgerufen 16.10.2026 (26.06.–22.12.1522; Stärken nach Clodfelter 2017 und Kinross; 703 Ritter; Kapitulationsbedingungen; Abzug 01.01.1523 mit 50 Schiffen über Kreta; Sizilien; Malta 1530)",
+        "romeartlover.it, „Kos“; Le Crac (Blog), 2014 (Truppen gegen Kos und Bodrum 1522; Räumung der Außenposten; Abzug von Kos im Januar 1523)",
+        "Wikipedia, „Bodrum Castle“, abgerufen 16.10.2026 (Übergabe Bodrums 1523)",
+        "Besetzung von Kos am 05.01.1523: nach Suchergebnis aus Wikipedia, wahrscheinlich",
+        "Name des Großmeisters: verbreitete Angabe (u. a. EBSCO Research Starter „Siege and fall of Rhodes“)"
+      ]
+    },
+    {
+      "id": "osmanen-mittelmeer",
+      "titel": "Das Osmanische Reich im Mittelmeer",
+      "untertitel": "Von Konstantinopel bis Malta, Lepanto und Kreta",
+      "abschnitte": [
+        {
+          "ueberschrift": "Nach Konstantinopel",
+          "absaetze": [
+            "Am 29. Mai 1453 eroberte Sultan Mehmed II. Konstantinopel. Damit war das Byzantinische Reich, das Erbe Roms im Osten, nach über tausend Jahren zu Ende. Die Osmanen beherrschten nun die Meerengen zwischen Schwarzem Meer und Ägäis, und ihr Blick ging aufs Meer.",
+            "Es folgten die Inseln: Imbros und Lemnos nahe den Dardanellen, 1462 Lesbos. Für die Sultane ging es um Sicherheit und um Handel, um die Kontrolle der Seewege und der Häfen. Die Inseln der Johanniter vor der kleinasiatischen Küste lagen genau im Weg."
+          ]
+        },
+        {
+          "ueberschrift": "Rhodos, zweimal",
+          "absaetze": [
+            "1480 scheiterte Mehmed II. vor Rhodos. 1522 gelang Sultan Süleyman, was ihm versagt geblieben war. Mit Rhodos fielen Kos und Bodrum. Damit war die Ägäis im Süden weitgehend osmanisch.",
+            "1538 siegte die osmanische Flotte unter Khair ad-Din Barbarossa bei Preveza über eine christliche Flotte. Von da an beherrschten die Osmanen das östliche Mittelmeer zur See, bis 1571."
+          ]
+        },
+        {
+          "ueberschrift": "Malta 1565",
+          "absaetze": [
+            "Die Johanniter, inzwischen auf Malta, standen den Osmanen ein zweites Mal gegenüber. Am 18. Mai 1565 landete ein Heer von wohl 22.000 bis 40.000 Mann; die Angaben gehen weit auseinander. Ihnen standen rund 2.500 Kämpfer gegenüber, mit Miliz und Galeerensklaven etwa 6.100, unter Großmeister Jean Parisot de Valette.",
+            "Die Osmanen griffen zuerst Fort St. Elmo an. Es fiel erst am 23. Juni, nach einem Monat, und kostete sie Tausende Männer. Birgu und Senglea hielten. Am 7. September landete ein Entsatzheer aus Sizilien, am 8. September zogen die Osmanen ab. Gründe für das Scheitern waren eine zerstrittene Führung, die Zeit, die St. Elmo kostete, Krankheiten und der Entsatz. Wer in Malta war, hat diese Orte gesehen."
+          ]
+        },
+        {
+          "ueberschrift": "Zypern und Lepanto 1571",
+          "absaetze": [
+            "1570 griffen die Osmanen das venezianische Zypern an. Nikosia fiel, dann Famagusta. Dass der osmanische Befehlshaber nach der Kapitulation von Famagusta den zugesagten freien Abzug brach, wurde zum Signal: Papst Pius V. brachte die Heilige Liga zusammen, Venedig, Spanien, den Kirchenstaat, Genua, Savoyen, die Toskana und den Malteserorden.",
+            "Am 7. Oktober 1571 trafen sich die Flotten im Golf von Patras bei Lepanto, jede mit rund 200 Galeeren. Die Liga unter Juan de Austria siegte vollständig. Doch die Osmanen bauten binnen eines Winters über 150 neue Galeeren, und Zypern blieb osmanisch; Venedig musste es im Frieden von 1573 abtreten. Lepanto brach den Mythos der Unbesiegbarkeit zur See, beendete die osmanische Macht aber nicht."
+          ]
+        },
+        {
+          "ueberschrift": "Kreta zuletzt",
+          "absaetze": [
+            "Kreta blieb am längsten venezianisch. Den Anlass für den Krieg gaben ausgerechnet die Malteserritter: 1644 überfielen sie einen osmanischen Konvoi mit hochrangigen Pilgern, und der Sultan warf Venedig vor, sie unterstützt zu haben. 1645 landeten die Osmanen auf Kreta. Die Hauptstadt Candia, das heutige Iraklio, hielt 21 Jahre Belagerung aus und ergab sich erst am 5. September 1669.",
+            "Die richtige Reihenfolge ist also: Konstantinopel 1453, Rhodos und Kos 1522/23, Malta gehalten 1565, Zypern 1570/71, Lepanto 1571, Kreta erst 1669. Malta und Lepanto bremsten die Osmanen im Westen, aufgehalten wurden sie im östlichen Mittelmeer noch lange nicht."
+          ]
+        }
+      ],
+      "bild": null,
+      "quellen": [
+        "Wikipedia, „Fall of Constantinople“, abgerufen 16.10.2026 (29.05.1453)",
+        "Universität Malta (OAR), „Ottoman Expansionist Policy in the 16th century Mediterranean“ und „The Ottomans in the Mediterranean“ (nur Suchauszüge: Motive, Imbros und Lemnos, Preveza 1538 bis Lepanto)",
+        "Wikipedia, „Siege of Mytilene (1464)“ (Lesbos 1462); „Siege of Rhodes (1480)“; „Siege of Rhodes (1522)“, abgerufen 16.10.2026",
+        "Wikipedia, „Great Siege of Malta“, abgerufen 16.10.2026 (18.05.–08.09.1565, Stärken nach Balbi, Bosio, Anastagi, St. Elmo 23.06., Entsatz 07.09., Gründe)",
+        "Wikipedia, „Battle of Lepanto“, abgerufen 16.10.2026 (Famagusta, Heilige Liga, 07.10.1571, Stärken, Neubau der Flotte, Frieden 1573)",
+        "Wikipedia, „Cretan War (1645–1669)“, abgerufen 16.10.2026 (Überfall 28.09.1644, Landung 1645, Candia 1648–1669, Kapitulation 05.09.1669)",
+        "Barbarossa als Befehlshaber bei Preveza: verbreitete Angabe, hier nicht eigens geprüft"
+      ]
+    },
+    {
+      "id": "nach-den-rittern",
+      "titel": "Kos nach den Rittern",
+      "untertitel": "Osmanen, Italiener, Deutsche, Griechen · kurz im Überblick",
+      "abschnitte": [
+        {
+          "ueberschrift": "Fast vier Jahrhunderte osmanisch",
+          "absaetze": [
+            "Von 1523 bis 1912 gehörte Kos zum Osmanischen Reich. Das Kastell blieb Festung. In ihm sollen die Garnison, Läden, Magazine und die Residenz des Gouverneurs untergebracht gewesen sein, und die neuen Herren bauten an. Europäer durften es nicht ohne Weiteres betreten: Der englische Reisende William Turner berichtet von seinem Besuch im Dezember 1815, Franken, also Westeuropäern, sei der Zutritt verboten.",
+            "Am 17. März 1816 explodierte ein Pulvermagazin und zerstörte große Teile der Anlage. In der Stadt entstanden in dieser Zeit Moscheen, darunter die Loggia-Moschee am Platz der Platane."
+          ]
+        },
+        {
+          "ueberschrift": "Italiener und Deutsche",
+          "absaetze": [
+            "1912 besetzte Italien im Krieg gegen das Osmanische Reich den Dodekanes; 1923 verzichtete die Türkei im Vertrag von Lausanne auf die Inseln. Der italienische Archäologische Dienst riss die osmanischen Anbauten im Kastell ab und stellte die Burg in ihrer Gestalt aus der Ritterzeit wieder her, so weit er sie kannte. Was Sie heute sehen, ist deshalb auch eine Rekonstruktion des 20. Jahrhunderts.",
+            "Nach dem schweren Erdbeben vom April 1933 legten die Italiener große Teile der antiken Stadt frei. Nach dem Waffenstillstand Italiens besetzten im September 1943 deutsche Truppen die Insel. Sie nutzten das Kastell als Garnison und Gefängnis. Am 8. Mai 1945 kapitulierten sie."
+          ]
+        },
+        {
+          "ueberschrift": "Griechisch seit 1947",
+          "absaetze": [
+            "Nach kurzer britischer Verwaltung kam der Dodekanes durch den Pariser Friedensvertrag von 1947 an Griechenland. 1948 wurde das Kastell als Kulturdenkmal unter Schutz gestellt.",
+            "Das Erdbeben vom Juli 2017 beschädigte das Kastell schwer, es blieb jahrelang geschlossen. Mit Mitteln aus dem europäischen Wiederaufbaufonds wurde es gesichert und restauriert und am 25. September 2025 wieder geöffnet."
+          ]
+        }
+      ],
+      "bild": null,
+      "quellen": [
+        "romeartlover.it, „Kos“, abgerufen 16.10.2026 (W. Turner, Journal of a Tour in the Levant, 1820: Besuch am 10.12.1815, Zutrittsverbot für Franken)",
+        "viagallica.com, „Kos Town – Castle Neratzia“ (Nutzung in osmanischer Zeit; ohne eigene Belege)",
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“ (Explosion 17.03.1816, italienische Restaurierung, Garnison und Gefängnis, Denkmalschutz 1948)",
+        "Wikipedia, „Italian Islands of the Aegean“, abgerufen 16.10.2026 (1912, Lausanne 1923, September 1943, 08.05.1945, britische Verwaltung, Paris 1947)",
+        "discoveringkos.com (Erdbeben 1933, Ausgrabungen)",
+        "Greece 2.0, „Αποκατάσταση κάστρου Νερατζιάς στη Κω“; Kulturministerium, Pressemitteilung (Restaurierung, Wiedereröffnung 25.09.2025)"
+      ]
+    }
+  ]
 }

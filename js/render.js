@@ -133,7 +133,7 @@ export function renderRundgang(site, orte, ctx) {
   const summe = schritte.reduce((s, r) => s + (r.minuten || 0), 0);
   return h("section", { class: "seite liste pad" },
     h("p", { class: "kicker" }, "Vorschlag"),
-    h("h1", {}, "Rundgang von unten nach oben"),
+    h("h1", {}, "Rundgang durch das Kastell"),
     h("p", { class: "dauer" }, `Gesamtdauer ${formatMinuten(summe)} (Lesen bzw. Hören und Wege)`),
     h("p", { class: "hinweis" }, "Ein Angebot, keine Pflicht: Sie können jederzeit abweichen, Stationen auslassen oder über den Plan frei wählen."),
     h("ol", { class: "stationen" }, schritte.map(r => {

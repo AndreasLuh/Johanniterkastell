@@ -2,6 +2,30 @@
     "stimme":  "onyx",
     "modell":  "gpt-4o-mini-tts",
     "abschnitte":  {
+                       "einfuehrung-1":  {
+                                             "datei":  "audio/einfuehrung-1.mp3",
+                                             "hash":  "1dc65837d073fae0"
+                                         },
+                       "einfuehrung-2":  {
+                                             "datei":  "audio/einfuehrung-2.mp3",
+                                             "hash":  "1daed5fadeb5a6a1"
+                                         },
+                       "einfuehrung-3":  {
+                                             "datei":  "audio/einfuehrung-3.mp3",
+                                             "hash":  "94a1b7ba37a7a95e"
+                                         },
+                       "einfuehrung-4":  {
+                                             "datei":  "audio/einfuehrung-4.mp3",
+                                             "hash":  "c30c2cf66d21b8f8"
+                                         },
+                       "einfuehrung-5":  {
+                                             "datei":  "audio/einfuehrung-5.mp3",
+                                             "hash":  "eca4a4ab4cb443b4"
+                                         },
+                       "einfuehrung-6":  {
+                                             "datei":  "audio/einfuehrung-6.mp3",
+                                             "hash":  "2523b2060946fd1f"
+                                         },
                        "ort-platane-kurz-1":  {
                                                   "datei":  "audio/ort-platane-kurz-1.mp3",
                                                   "hash":  "de0629776f7246b5"
@@ -13,6 +37,222 @@
                        "ort-platane-mehr-2":  {
                                                   "datei":  "audio/ort-platane-mehr-2.mp3",
                                                   "hash":  "0b4e4b030c7b6edc"
-                                              }
+                                              },
+                       "ort-finikon-kurz-1":  {
+                                                  "datei":  "audio/ort-finikon-kurz-1.mp3",
+                                                  "hash":  "9daa193d57dde833"
+                                              },
+                       "ort-finikon-mehr-1":  {
+                                                  "datei":  "audio/ort-finikon-mehr-1.mp3",
+                                                  "hash":  "bc30be68c45ef4e4"
+                                              },
+                       "ort-tor-kurz-1":  {
+                                              "datei":  "audio/ort-tor-kurz-1.mp3",
+                                              "hash":  "1318089558ead084"
+                                          },
+                       "ort-tor-mehr-1":  {
+                                              "datei":  "audio/ort-tor-mehr-1.mp3",
+                                              "hash":  "30c19e3c742124df"
+                                          },
+                       "ort-tor-mehr-2":  {
+                                              "datei":  "audio/ort-tor-mehr-2.mp3",
+                                              "hash":  "b31a1643c38b1dfb"
+                                          },
+                       "ort-spolien-kurz-1":  {
+                                                  "datei":  "audio/ort-spolien-kurz-1.mp3",
+                                                  "hash":  "d3d995c78f8de331"
+                                              },
+                       "ort-spolien-mehr-1":  {
+                                                  "datei":  "audio/ort-spolien-mehr-1.mp3",
+                                                  "hash":  "9499f4ac4f456fac"
+                                              },
+                       "ort-spolien-mehr-2":  {
+                                                  "datei":  "audio/ort-spolien-mehr-2.mp3",
+                                                  "hash":  "52b2c10a3ff16481"
+                                              },
+                       "ort-kanonen-kurz-1":  {
+                                                  "datei":  "audio/ort-kanonen-kurz-1.mp3",
+                                                  "hash":  "cc958c46c58c7f47"
+                                              },
+                       "ort-kanonen-mehr-1":  {
+                                                  "datei":  "audio/ort-kanonen-mehr-1.mp3",
+                                                  "hash":  "9f0949c3de8688f7"
+                                              },
+                       "ort-quadratischer-turm-kurz-1":  {
+                                                             "datei":  "audio/ort-quadratischer-turm-kurz-1.mp3",
+                                                             "hash":  "44cd6fdbabda43c3"
+                                                         },
+                       "ort-quadratischer-turm-mehr-1":  {
+                                                             "datei":  "audio/ort-quadratischer-turm-mehr-1.mp3",
+                                                             "hash":  "f3983c7c4b67a96c"
+                                                         },
+                       "ort-quadratischer-turm-mehr-2":  {
+                                                             "datei":  "audio/ort-quadratischer-turm-mehr-2.mp3",
+                                                             "hash":  "46afe6f8d395f2db"
+                                                         },
+                       "ort-innere-burg-kurz-1":  {
+                                                      "datei":  "audio/ort-innere-burg-kurz-1.mp3",
+                                                      "hash":  "f3b6b65f5c2737a8"
+                                                  },
+                       "ort-innere-burg-mehr-1":  {
+                                                      "datei":  "audio/ort-innere-burg-mehr-1.mp3",
+                                                      "hash":  "5b163ac9e2866bdb"
+                                                  },
+                       "ort-innere-burg-mehr-2":  {
+                                                      "datei":  "audio/ort-innere-burg-mehr-2.mp3",
+                                                      "hash":  "19e57f1c31023000"
+                                                  },
+                       "ort-bergfried-kurz-1":  {
+                                                    "datei":  "audio/ort-bergfried-kurz-1.mp3",
+                                                    "hash":  "f4133b0f278b5e07"
+                                                },
+                       "ort-bergfried-mehr-1":  {
+                                                    "datei":  "audio/ort-bergfried-mehr-1.mp3",
+                                                    "hash":  "23a825486a19e7e0"
+                                                },
+                       "ort-nordost-turm-kurz-1":  {
+                                                       "datei":  "audio/ort-nordost-turm-kurz-1.mp3",
+                                                       "hash":  "a2977fb9ace64671"
+                                                   },
+                       "ort-nordost-turm-mehr-1":  {
+                                                       "datei":  "audio/ort-nordost-turm-mehr-1.mp3",
+                                                       "hash":  "9ac1063d010ee4b4"
+                                                   },
+                       "ort-nordost-turm-mehr-2":  {
+                                                       "datei":  "audio/ort-nordost-turm-mehr-2.mp3",
+                                                       "hash":  "638fec5301726e35"
+                                                   },
+                       "ort-aubusson-turm-kurz-1":  {
+                                                        "datei":  "audio/ort-aubusson-turm-kurz-1.mp3",
+                                                        "hash":  "130118f760be6204"
+                                                    },
+                       "ort-aubusson-turm-mehr-1":  {
+                                                        "datei":  "audio/ort-aubusson-turm-mehr-1.mp3",
+                                                        "hash":  "0e337b8904d3f594"
+                                                    },
+                       "ort-carretto-bastion-kurz-1":  {
+                                                           "datei":  "audio/ort-carretto-bastion-kurz-1.mp3",
+                                                           "hash":  "40c3cc34c2f732ba"
+                                                       },
+                       "ort-carretto-bastion-mehr-1":  {
+                                                           "datei":  "audio/ort-carretto-bastion-mehr-1.mp3",
+                                                           "hash":  "b7217c963234cdfd"
+                                                       },
+                       "ort-carretto-bastion-mehr-2":  {
+                                                           "datei":  "audio/ort-carretto-bastion-mehr-2.mp3",
+                                                           "hash":  "8af5479cd77daf15"
+                                                       },
+                       "thema-johanniter-1":  {
+                                                  "datei":  "audio/thema-johanniter-1.mp3",
+                                                  "hash":  "9ac2992c065f9933"
+                                              },
+                       "thema-johanniter-2":  {
+                                                  "datei":  "audio/thema-johanniter-2.mp3",
+                                                  "hash":  "6815cc3db89c66c6"
+                                              },
+                       "thema-johanniter-3":  {
+                                                  "datei":  "audio/thema-johanniter-3.mp3",
+                                                  "hash":  "6488d9fdd26d1b7f"
+                                              },
+                       "thema-johanniter-4":  {
+                                                  "datei":  "audio/thema-johanniter-4.mp3",
+                                                  "hash":  "c491cdd3ab286f89"
+                                              },
+                       "thema-leben-auf-kos-1":  {
+                                                     "datei":  "audio/thema-leben-auf-kos-1.mp3",
+                                                     "hash":  "118806379d246844"
+                                                 },
+                       "thema-leben-auf-kos-2":  {
+                                                     "datei":  "audio/thema-leben-auf-kos-2.mp3",
+                                                     "hash":  "2fdc62fe10fd141d"
+                                                 },
+                       "thema-leben-auf-kos-3":  {
+                                                     "datei":  "audio/thema-leben-auf-kos-3.mp3",
+                                                     "hash":  "17961af387e31754"
+                                                 },
+                       "thema-leben-auf-kos-4":  {
+                                                     "datei":  "audio/thema-leben-auf-kos-4.mp3",
+                                                     "hash":  "33ca9690c244e5c6"
+                                                 },
+                       "thema-bauen-gegen-kanonen-1":  {
+                                                           "datei":  "audio/thema-bauen-gegen-kanonen-1.mp3",
+                                                           "hash":  "558b88ac50916144"
+                                                       },
+                       "thema-bauen-gegen-kanonen-2":  {
+                                                           "datei":  "audio/thema-bauen-gegen-kanonen-2.mp3",
+                                                           "hash":  "06680a6623b308d9"
+                                                       },
+                       "thema-bauen-gegen-kanonen-3":  {
+                                                           "datei":  "audio/thema-bauen-gegen-kanonen-3.mp3",
+                                                           "hash":  "76cd3fab9c1c9e10"
+                                                       },
+                       "thema-bauen-gegen-kanonen-4":  {
+                                                           "datei":  "audio/thema-bauen-gegen-kanonen-4.mp3",
+                                                           "hash":  "4f4acb95f8ab9f75"
+                                                       },
+                       "thema-belagerung-1457-1":  {
+                                                       "datei":  "audio/thema-belagerung-1457-1.mp3",
+                                                       "hash":  "dd9605a087aa0e49"
+                                                   },
+                       "thema-belagerung-1457-2":  {
+                                                       "datei":  "audio/thema-belagerung-1457-2.mp3",
+                                                       "hash":  "8af3cb0356ef675c"
+                                                   },
+                       "thema-belagerung-1457-3":  {
+                                                       "datei":  "audio/thema-belagerung-1457-3.mp3",
+                                                       "hash":  "a45e754ac0b06972"
+                                                   },
+                       "thema-belagerung-1457-4":  {
+                                                       "datei":  "audio/thema-belagerung-1457-4.mp3",
+                                                       "hash":  "a31881be45023390"
+                                                   },
+                       "thema-rhodos-1522-1":  {
+                                                   "datei":  "audio/thema-rhodos-1522-1.mp3",
+                                                   "hash":  "7942b54aa204aeb6"
+                                               },
+                       "thema-rhodos-1522-2":  {
+                                                   "datei":  "audio/thema-rhodos-1522-2.mp3",
+                                                   "hash":  "40f6fc879567d23b"
+                                               },
+                       "thema-rhodos-1522-3":  {
+                                                   "datei":  "audio/thema-rhodos-1522-3.mp3",
+                                                   "hash":  "42622d9487eb7487"
+                                               },
+                       "thema-rhodos-1522-4":  {
+                                                   "datei":  "audio/thema-rhodos-1522-4.mp3",
+                                                   "hash":  "843bb3c7e37af3c4"
+                                               },
+                       "thema-osmanen-mittelmeer-1":  {
+                                                          "datei":  "audio/thema-osmanen-mittelmeer-1.mp3",
+                                                          "hash":  "8523d96ebd110316"
+                                                      },
+                       "thema-osmanen-mittelmeer-2":  {
+                                                          "datei":  "audio/thema-osmanen-mittelmeer-2.mp3",
+                                                          "hash":  "d1119ba7dca24b37"
+                                                      },
+                       "thema-osmanen-mittelmeer-3":  {
+                                                          "datei":  "audio/thema-osmanen-mittelmeer-3.mp3",
+                                                          "hash":  "b2ea4cf0ce9f4ce9"
+                                                      },
+                       "thema-osmanen-mittelmeer-4":  {
+                                                          "datei":  "audio/thema-osmanen-mittelmeer-4.mp3",
+                                                          "hash":  "297f31f0efc46c97"
+                                                      },
+                       "thema-osmanen-mittelmeer-5":  {
+                                                          "datei":  "audio/thema-osmanen-mittelmeer-5.mp3",
+                                                          "hash":  "b6a93d52879897ce"
+                                                      },
+                       "thema-nach-den-rittern-1":  {
+                                                        "datei":  "audio/thema-nach-den-rittern-1.mp3",
+                                                        "hash":  "cc7a643408fa631f"
+                                                    },
+                       "thema-nach-den-rittern-2":  {
+                                                        "datei":  "audio/thema-nach-den-rittern-2.mp3",
+                                                        "hash":  "9654e5ed54fb8c13"
+                                                    },
+                       "thema-nach-den-rittern-3":  {
+                                                        "datei":  "audio/thema-nach-den-rittern-3.mp3",
+                                                        "hash":  "3928ed5a6d5f0d42"
+                                                    }
                    }
 }

@@ -10,7 +10,17 @@
   ],
   "ausspracheKI": "Französische Namen französisch aussprechen (d'Aubusson, d'Amboise, de Lastic, de Milly, de Villiers de l'Isle-Adam), italienische italienisch (del Carretto, Querini, Carmadino, Narangia), griechische wie im Neugriechischen (Neratzia, Platia Platanou, Antimachia); Kos wie Koss.",
   "rundgang": [
-    { "id": "platane", "minuten": 8 }
+    { "id": "platane", "minuten": 8 },
+    { "id": "finikon", "minuten": 5 },
+    { "id": "tor", "minuten": 8, "thema": "johanniter" },
+    { "id": "spolien", "minuten": 8 },
+    { "id": "kanonen", "minuten": 7, "thema": "bauen-gegen-kanonen" },
+    { "id": "quadratischer-turm", "minuten": 6 },
+    { "id": "innere-burg", "minuten": 10, "thema": "leben-auf-kos" },
+    { "id": "bergfried", "minuten": 6 },
+    { "id": "nordost-turm", "minuten": 8, "thema": "osmanen-mittelmeer" },
+    { "id": "aubusson-turm", "minuten": 9, "thema": "belagerung-1457" },
+    { "id": "carretto-bastion", "minuten": 9, "thema": "rhodos-1522" }
   ],
   "einfuehrung": [
     {

@@ -34,7 +34,7 @@
           ]
         }
       ],
-      "themen": [],
+      "themen": ["nach-den-rittern"],
       "bilder": {
         "heute": {
           "src": "img/fotos/platane.jpg",
@@ -52,6 +52,529 @@
         "Wikipedia, „Italian Islands of the Aegean“, abgerufen 16.10.2026 (1912, 1923, 1943, 1947)",
         "Greece 2.0, „Αποκατάσταση κάστρου Νερατζιάς στη Κω“; Kulturministerium, Pressemitteilung zur Wiedereröffnung 25.09.2025",
         "Alter der Platane: Schätzungen um 500 Jahre (u. a. aegeanislands.gr); unsicher"
+      ]
+    },
+    {
+      "id": "finikon",
+      "nr": 2,
+      "bereich": "vor",
+      "titel": "Die Palmenallee war Meer",
+      "untertitel": "Finikon-Straße · der alte Wassergraben",
+      "lat": 36.895052,
+      "lon": 27.290516,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Die Palmenallee, auf Griechisch Odos Finikon, die Straße der Palmen, sieht heute aus wie eine gewöhnliche Promenade. Im Mittelalter floss hier Wasser. Ein Graben verband den Hafen im Westen mit dem offenen Meer auf der Ostseite der Burg. Das Kastell stand damit auf einer eigenen kleinen Insel, getrennt von der Stadt.",
+            "Wer hineinwollte, musste über eine Brücke. Nach einer ausführlichen Beschreibung des Kastells war sie rund 33 Meter lang, und ihr nördliches Stück war eine Zugbrücke. Wurde sie hochgezogen, war die Burg vom Land abgeschnitten. Die steinerne Brücke, über die Sie gleich gehen, ist der Rest dieser Verbindung.",
+            "Der Graben wurde später zugeschüttet, nach dieser Beschreibung erst in der italienischen Zeit nach 1912. Aus dem Wasserlauf wurde die Straße, an der Sie jetzt stehen."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Warum eine Burg auf einer Insel?",
+          "absaetze": [
+            "Die Lage war doppelt nützlich. Zum einen schützte das Wasser die Burg von allen Seiten; Angreifer konnten nicht einfach an die Mauern heranrücken. Zum anderen beherrschte die Burg den Hafen von Kos-Stadt, den Mandraki. Wer die Burg hielt, kontrollierte die Schiffe, die hier ankerten.",
+            "Die Burg war aber nicht allein. Die mittelalterliche Stadt Kos hatte eigene Mauern, die vom antiken Hafen bis zur Agora reichten. Das Kastell war der stärkste Punkt dieses Verteidigungsrings und zugleich der Sitz des Ritters, der die Insel für den Orden verwaltete."
+          ]
+        }
+      ],
+      "themen": ["bauen-gegen-kanonen"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/finikon.jpg",
+          "alt": "Die Palmenallee am Kastell",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_castle.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/um-1520.svg",
+          "alt": "Vogelschau der Burginsel um 1520 mit Wassergraben, Brücke und Hafen",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Mauerlinien nach OpenStreetMap, Gliederung nach Naundorf/Greiner (Kos, 2019), Wassergraben und Brücke nach kos.gr und viagallica.com; Höhen und Ufer angenommen"
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“, abgerufen 16.10.2026 (Wassergraben zwischen Hafen und Ostseite, Brücke an der Finikon-Straße)",
+        "aegeanislands.gr, Eintrag Kastell Neratzia, abgerufen 16.10.2026 (Burg auf eigener Insel, Stadtmauern vom antiken Hafen bis zur Agora)",
+        "viagallica.com, „Kos Town – Castle Neratzia“ (D. Malleotus), abgerufen 16.10.2026 (Länge der Brücke, Zugbrücke, Verfüllung in italienischer Zeit; ohne eigene Belege, daher unsicher)",
+        "Abstract zu „Μεσαιωνικά κάστρα και οχυρώσεις της Κω“, academia.edu 1956324 (Kastell als Sitz des Ritter-Gouverneurs)"
+      ]
+    },
+    {
+      "id": "tor",
+      "nr": 3,
+      "bereich": "aussen",
+      "titel": "Brücke und Tor",
+      "untertitel": "Zugang zum äußeren Mauerring · Wappen über dem Eingang",
+      "lat": 36.8952593,
+      "lon": 27.2909028,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Über die Brücke gelangen Sie an das Tor im äußeren Mauerring. Dieser Ring ist der jüngere Teil der Burg. Begonnen wurde er um 1495 unter Großmeister Pierre d'Aubusson, fortgeführt unter Emery d'Amboise und 1514 unter Fabrizio del Carretto vollendet. Innen, hinter einem zweiten Graben, liegt die ältere innere Burg.",
+            "Schauen Sie über den Eingang. Dort sitzen Wappen, und sie erzählen, wer hier baute. Nach den Fotos und Beschreibungen gehört eines davon Emery d'Amboise, Großmeister von 1503 bis 1512. Das Wappenfoto auf Wikimedia Commons ist mit 1510 beschriftet.",
+            "Unter den Wappen liegt ein ganz anderer Stein: ein antiker Marmorfries mit Masken und Girlanden, vermutlich aus hellenistischer Zeit. Die Ritter setzten ihn einfach als Schmuck über ihr Tor. Antike und Mittelalter liegen hier direkt übereinander."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Wappen lesen",
+          "absaetze": [
+            "An den Mauern des Kastells finden Sie viele Wappen. Meist stehen zwei nebeneinander: das Wappen des Ordens, ein weißes Kreuz auf rotem Grund, und das persönliche Wappen des Großmeisters oder Kommandanten, der den Bau bezahlte oder leitete. So lässt sich ein Mauerstück oft auf wenige Jahre genau datieren.",
+            "Ein schönes Beispiel ist Pierre d'Aubusson. Papst Innozenz VIII. ernannte ihn 1489 zum Kardinal. Danach erscheint über seinem Wappen ein Kardinalshut mit Quasten. Ein Aubusson-Wappen mit Hut muss also nach 1489 entstanden sein. Sie werden ihm am Aubusson-Turm begegnen."
+          ]
+        },
+        {
+          "ueberschrift": "Der Fries",
+          "absaetze": [
+            "Der Fries über dem Tor zeigt Masken und Girlanden, eine Beschreibung nennt auch Stierköpfe. Solche Friese schmückten in der Antike Tempel, Altäre oder Theater. Woher genau dieses Stück stammt, ist nicht bekannt. Dass die Ritter es sichtbar über das Tor setzten, zeigt aber: Sie verbauten antike Steine nicht nur, weil sie praktisch waren, sondern auch, weil sie ihnen gefielen."
+          ]
+        }
+      ],
+      "themen": ["johanniter"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/tor.jpg",
+          "alt": "Die Zugangsbrücke führt auf das Tor zu, darüber Wappen",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Castello_di_kos,_cavalcavia_d%27accesso_02.JPG",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/um-1520.svg",
+          "alt": "Vogelschau der Burginsel um 1520 mit Brücke und Zugbrücke",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Mauerlinien nach OpenStreetMap, Gliederung nach Naundorf/Greiner (Kos, 2019), Wassergraben und Brücke nach kos.gr und viagallica.com; Höhen und Ufer angenommen"
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“, abgerufen 16.10.2026 (äußerer Ring 1495–1514: d'Aubusson, d'Amboise, del Carretto; hellenistischer Fries mit Girlanden über dem Tor)",
+        "aegeanislands.gr, Eintrag Kastell Neratzia, abgerufen 16.10.2026 (Bauphasen, Wappen an den Mauern)",
+        "Wikimedia Commons, sailko: „Castello di kos, cavalcavia d'accesso 03 stemma cavalieri emery d'amboise, 1510“ (Zuordnung und Jahr nach der Bildbeschriftung)",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (Amboise-Wappen über dem Haupteingang, Fries mit Masken und Stierköpfen; ohne eigene Belege)",
+        "Wikipedia, „Pierre d'Aubusson“, abgerufen 16.10.2026 (Kardinal 1489); romeartlover.it, „Kos“ (Kardinalshut als Datierungshilfe)",
+        "Wikipedia, „Knights Hospitaller“, abgerufen 16.10.2026 (Ordenswappen)"
+      ]
+    },
+    {
+      "id": "spolien",
+      "nr": 4,
+      "bereich": "aussen",
+      "titel": "Antike Steine",
+      "untertitel": "Säulen, Statuen, Inschriften · Spolien aus der antiken Stadt",
+      "lat": 36.895468,
+      "lon": 27.290657,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Hier, im Hof hinter dem Tor, liegen und stehen antike Steine: Säulen, Kapitelle, Inschriften, eine kopflose Statue. Manche wurden ausgestellt, viele aber stecken seit dem Mittelalter in den Mauern selbst.",
+            "Die Ritter haben für ihre Burg nicht nur frisch gebrochenen Stein verwendet, sondern auch Bauteile aus der antiken Stadt Kos und aus dem Asklepieion. Fachleute nennen solche wiederverwendeten Stücke Spolien, nach dem lateinischen Wort für Beute. Wenn Sie das Asklepieion schon besucht haben: Einige Steine, die dort fehlen, könnten hier verbaut sein. Welche genau, lässt sich meist nicht mehr sagen.",
+            "Gehen Sie ein Stück an der Mauer entlang und suchen Sie nach glatten Marmorblöcken, Säulentrommeln, die quer im Mauerwerk liegen, oder nach Buchstaben auf dem Kopf. Es lohnt sich."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Warum Spolien?",
+          "absaetze": [
+            "Für Bauherren im Mittelalter war eine antike Ruine vor allem ein Steinbruch. Die Blöcke waren schon zugeschnitten, Marmor war wertvoll, und der Weg war kurz. Auf Kos lagen die Reste der antiken Stadt direkt neben dem Hafen. So wanderten Säulen, Gebälke, Inschriften und Säulenbasen in die Mauern.",
+            "Das war keine Besonderheit der Johanniter. Auch die Burg St. Peter auf der gegenüberliegenden Küste in Bodrum wurde zum Teil aus den Steinen des Mausoleums von Halikarnassos gebaut, eines der Sieben Weltwunder. Und die Loggia-Moschee am Platz der Platane entstand später nach demselben Prinzip."
+          ]
+        },
+        {
+          "ueberschrift": "Die Steine heute",
+          "absaetze": [
+            "In der italienischen Zeit wurden viele Fundstücke gesammelt und im Kastell gezeigt; eine Halle im Nordosten diente als Skulpturenmuseum. Bei der Restaurierung nach dem Erdbeben von 2017 wurde diese Halle abgebaut. Sie soll nach ihrem ursprünglichen Grundriss neu errichtet werden. Ob die Ausstellung bei Ihrem Besuch schon wieder zu sehen ist, war bei der Recherche nicht festzustellen."
+          ]
+        }
+      ],
+      "themen": ["johanniter"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/spolien.jpg",
+          "alt": "Kopflose römische Gewandstatue vor der Mauer des Kastells",
+          "credit": "Ad Meskens (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_Castle_of_the_Knights_Roman_remains_06.JPG",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“, abgerufen 16.10.2026 (Bauteile aus der antiken Stadt und dem Asklepieion)",
+        "aegeanislands.gr, Eintrag Kastell Neratzia, abgerufen 16.10.2026 (Marmorsäulen, Inschriften, Architrave, Säulenbasen)",
+        "Wikipedia, „Bodrum Castle“, abgerufen 16.10.2026 (Steine vom Mausoleum von Halikarnassos)",
+        "Greece 2.0, „Αποκατάσταση κάστρου Νερατζιάς στη Κω“ (italienische Halle als Skulpturenmuseum, Abbau und geplante Wiedererrichtung)",
+        "Wikimedia Commons, Ad Meskens: „Kos Castle of the Knights Roman remains 06“ (Bildbeschreibung „Statue of a Roman“)"
+      ]
+    },
+    {
+      "id": "kanonen",
+      "nr": 5,
+      "bereich": "aussen",
+      "titel": "Kanonen",
+      "untertitel": "Kanonenrohre und Kugeln · die Antwort auf das Pulver",
+      "lat": 36.895491,
+      "lon": 27.290952,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Vor Ihnen liegen alte Kanonenrohre und ein Haufen steinerner und eiserner Kugeln. Aus welcher Zeit diese Stücke stammen, ist in den mir zugänglichen Quellen nicht angegeben. Sie können aus der Johanniterzeit sein, aber ebenso aus der osmanischen Zeit danach.",
+            "Sicher ist: Kanonen haben die Geschichte dieser Burg bestimmt. 1453 schossen die Osmanen mit riesigen Geschützen Breschen in die Landmauer von Konstantinopel, die fast 800 Jahre gehalten hatte. 1480 lag Rhodos, der Hauptsitz der Johanniter, wochenlang unter Dauerbeschuss. Die Stadt hielt, aber die Lehre war klar: Hohe, dünne Mittelaltermauern genügten nicht mehr.",
+            "Großmeister d'Aubusson ließ daraufhin nicht nur Rhodos, sondern auch die Burgen auf den anderen Inseln modernisieren. Auf Kos entstand ab etwa 1495 der äußere Mauerring, in dem Sie jetzt stehen: niedriger, viel dicker und mit Plattformen für eigene Geschütze."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Steinkugeln",
+          "absaetze": [
+            "Die frühen großen Geschütze, die Bombarden, verschossen behauene Steinkugeln. Die größte osmanische Kanone vor Konstantinopel soll eine Kugel von rund 270 Kilogramm geschleudert haben, brauchte aber drei Stunden zum Nachladen. Solche Riesen waren ungenau und langsam; die Verteidiger konnten Schäden oft zwischen zwei Schüssen ausbessern. Wirksam wurden sie durch die Masse: Vor dem letzten Sturm auf Konstantinopel sollen rund 5.000 Schüsse gefallen sein.",
+            "Auch die Johanniter rüsteten auf. D'Aubusson gab eine große Bombarde in Auftrag; die Verteidigung war nun selbst ein Geschützkampf."
+          ]
+        }
+      ],
+      "themen": ["bauen-gegen-kanonen"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/kanonen.jpg",
+          "alt": "Alte Kanonenrohre und aufgeschichtete Kanonenkugeln",
+          "credit": "kallerna (Wikimedia Commons), 2012",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos_Knight%27s_Castle_3.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Wikipedia, „Fall of Constantinople“, abgerufen 16.10.2026 (29.05.1453; Orban-Kanone, Steinkugel ca. 270 kg, drei Stunden Nachladezeit, ca. 5.000 Schüsse)",
+        "Wikipedia, „Siege of Rhodes (1480)“, abgerufen 16.10.2026 (Dauerbeschuss, Belagerung 23.05.–17.08.1480)",
+        "Wikipedia, „Pierre d'Aubusson“, abgerufen 16.10.2026 (Modernisierung der Befestigungen auf Rhodos und den Dodekanes-Inseln, große Bombarde)",
+        "Gemeinde Kos, kos.gr; aegeanislands.gr (äußerer Ring 1495–1514 als Antwort auf Pulvergeschütze)",
+        "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: Standort „Kanonenrohr & Kanonenkugeln“); Datierung der Stücke: nicht ermittelt"
+      ]
+    },
+    {
+      "id": "quadratischer-turm",
+      "nr": 6,
+      "bereich": "aussen",
+      "titel": "Der Quadratische Turm",
+      "untertitel": "Ecke des äußeren Rings · Geschützkammer aus der Zeit d'Aubussons (unsicher)",
+      "lat": 36.895794,
+      "lon": 27.29112,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Der Reiseführerplan nennt den kantigen Bau an dieser Ecke des äußeren Rings den Quadratischen Turm. Eine ausführliche, aber nicht mit Quellen belegte Beschreibung des Kastells sieht in ihm eine viereckige Bastion aus der Zeit d'Aubussons. Danach liegt im Erdgeschoss ein umlaufender Gang mit neun Schießscharten für Kanonen, dazu Schächte, die den Pulverdampf abzogen, und eine Steintreppe hinauf zur Brustwehr.",
+            "Wenn der Turm zugänglich ist, achten Sie auf die Öffnungen in den Wänden: Sie sind breit und niedrig, gemacht für Geschützrohre, nicht für Bogenschützen. Und auf die Dicke der Mauern. Sie sollten nicht nur Pfeile abhalten, sondern Kanonenkugeln.",
+            "Von hier sicherte die Besatzung den Eingangsbereich und die Seite zum offenen Meer."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Pulverdampf",
+          "absaetze": [
+            "Wer in einer geschlossenen Kammer mit Schwarzpulver schoss, stand nach wenigen Schüssen im dichten Qualm. Lüftungsschächte waren deshalb keine Nebensache, sondern Voraussetzung dafür, dass die Kanoniere überhaupt weiterkämpfen konnten. Solche Geschützkammern im Mauerinneren nennt man Kasematten."
+          ]
+        },
+        {
+          "ueberschrift": "Was unsicher ist",
+          "absaetze": [
+            "Die Angaben zu Gang, Schießscharten und Schächten stammen aus einer einzigen, sorgfältigen, aber unbelegten Beschreibung. Auch die genaue Datierung des Turms ist offen. Nehmen Sie diese Station als Einladung, selbst genau hinzusehen."
+          ]
+        }
+      ],
+      "themen": ["bauen-gegen-kanonen"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/eingangshof.jpg",
+          "alt": "Blick im Kastell zurück zum Eingangsbereich",
+          "credit": "Elisa Triolo (Wikimedia Commons), 2010",
+          "lizenz": "CC BY-SA 2.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Inside_Neratzia.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Quadratischer Turm“)",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (viereckige Aubusson-Bastion mit Umlaufgang, neun Geschützscharten, Lüftungsschächten, Treppe; ohne eigene Belege, daher unsicher)",
+        "Wikipedia, „Bastion fort“, abgerufen 16.10.2026 (Festungsbau als Antwort auf Feuerwaffen um 1500)"
+      ]
+    },
+    {
+      "id": "innere-burg",
+      "nr": 7,
+      "bereich": "innen",
+      "titel": "Die innere Burg",
+      "untertitel": "Ältester Teil · Rundturm mit Wappen de Lastic und de Milly · Carmadino-Tor",
+      "lat": 36.895704,
+      "lon": 27.290375,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Über die schräge Rampenbrücke kommen Sie in die innere Burg, den ältesten Teil des Kastells. Sie ist rechteckig, hat an den Ecken runde Türme und war an drei Seiten von einem eigenen, trockenen Graben umgeben. Bevor es den äußeren Ring gab, war dies die ganze Burg.",
+            "Der runde Turm links der Brücke gilt als ältester erhaltener Bau. Er trägt die Wappen zweier Großmeister: Jean de Lastic, der von 1437 bis 1454 regierte, und Jacques de Milly, 1454 bis 1461. Nach einer Beschreibung sitzt zwischen ihnen das Ordenskreuz. Begonnen hatte den Neubau der Burg in den 1430er Jahren der Kommandant von Kos, Fantino Querini, ein Ordensritter aus einer venezianischen Familie. Sein Wappen ist im Kastell ebenfalls erhalten.",
+            "Durch das Carmadino-Tor geht es weiter. Es ist nach Edoardo de Carmadino benannt, der Kos für den Orden verwaltete; sein Name steht im Sturz. Schauen Sie im Durchgang nach oben: Die Decke ruht auf antiken Säulen aus dunklem Stein, die quer verlegt wurden, vermutlich aus einer frühchristlichen Basilika am Hafen."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Wie alt ist die innere Burg?",
+          "absaetze": [
+            "Ganz genau weiß man es nicht. Reiseberichte des späten 14. Jahrhunderts, darunter der des Notars Nicola de Martoni, der 1395 auf einer Pilgerreise nach Jerusalem hier vorbeikam, beschreiben schon eine Burg am Hafen. Ein Wappenfoto auf Wikimedia Commons wird dem Großmeister Juan Fernández de Heredia (1377–1396) zugeordnet. Das würde zu Bauarbeiten noch vor 1400 passen; die Zuordnung ist aber nicht gesichert.",
+            "Fest steht: Unter Querini, Lastic und Milly wurde die Burg ab den 1430er Jahren weitgehend neu gebaut. Abgeschlossen war die innere Burg um 1478. Die Angaben dazu schwanken in den Quellen um einige Jahre."
+          ]
+        },
+        {
+          "ueberschrift": "Ein Venezianer im Dienst des Ordens",
+          "absaetze": [
+            "Fantino Querini stammte aus einer venezianischen Patrizierfamilie, die in der Ägäis viele Besitzungen hatte. Er diente aber nicht Venedig, sondern dem Johanniterorden, als Kommandant von Kos, Kalymnos, Leros und zeitweise Nisyros, zwischen 1432 und 1452. Daher kommt vielleicht die verbreitete Angabe, die Burg sei von Venezianern gegründet worden. Eine venezianische Burg vor den Johannitern ist nicht belegt; es gab nur eine kurze venezianische Episode um 1309."
+          ]
+        }
+      ],
+      "themen": ["leben-auf-kos"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/innere-burg.jpg",
+          "alt": "Runder Eckturm und Mauer der inneren Burg, davor eine Treppe",
+          "credit": "Michele Perillo (Wikimedia Commons), 2007",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Neratzia_castle,_Inner_enceint.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/vor-1495.svg",
+          "alt": "Vogelschau der kleineren Burg vor dem Bau des äußeren Rings",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Lage nach OpenStreetMap; Nordseite, Graben und Größe der Insel vor 1495 nicht bekannt"
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“, abgerufen 16.10.2026 (innerer Ring, Rundturm links der schrägen Brücke mit Wappen de Lastic 1437–1454 und de Milly 1454–1461, Reiseberichte vor 1400, Granitsäulen aus der Hafenbasilika)",
+        "aegeanislands.gr, Eintrag Kastell Neratzia, abgerufen 16.10.2026 (vier Rundtürme, Graben zwischen den Ringen)",
+        "Pandektis/EKT, „Heraldic Monuments of Greece“ (INE/EIE): Wappen des Hauses Querini im Kastell, datiert 1433–1452; Fantino Querini als Kommandant von Kos, Kalymnos, Leros, Nisyros 1432–1452",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (Ordenskreuz zwischen den Wappen, trockener Graben an drei Seiten, Carmadino-Name im Sturz, Martoni 1394/95; ohne eigene Belege)",
+        "romeartlover.it, „Kos“; J. Graham, Le Crac (Blog) 2014 (Abschluss um 1478 unter Carmadino; venezianische Episode 1309 nach Luttrell); unsicher",
+        "Wikimedia Commons, sailko: „Castello di kos, stemma cavalieri 04 ferdinand d'heredia“ (Zuordnung nach der Bildbeschriftung, unsicher)"
+      ]
+    },
+    {
+      "id": "bergfried",
+      "nr": 8,
+      "bereich": "innen",
+      "titel": "Im Hof der inneren Burg",
+      "untertitel": "„Bergfried“ · Rückzugsort der Besatzung",
+      "lat": 36.896131,
+      "lon": 27.290516,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Sie stehen im Innern der alten Burg. Der Reiseführerplan verzeichnet hier einen Bau, den er Bergfried nennt. So heißt in der Burgenkunde der Hauptturm einer Burg, der letzte Rückzugsort, wenn alles andere verloren ist. Was dieser Bau im Einzelnen war, beschreiben die mir zugänglichen Quellen nicht.",
+            "Die Idee dahinter lässt sich aber an der ganzen Anlage ablesen: Verteidigung in Schichten. Erst das Wasser, dann der äußere Ring, dann ein zweiter Graben, dann die innere Burg mit ihren eigenen Türmen. Fiel der äußere Ring, konnte sich die Besatzung hierher zurückziehen und weiterkämpfen.",
+            "Auf der Mauerkrone verlief nach einer Beschreibung ein breiter Wall für die Verteidiger. Später, in osmanischer Zeit, sollen in der Burg die Garnison, Läden, Magazine und die Residenz des Gouverneurs untergebracht gewesen sein. Heute verzeichnet der Reiseführer im Kastell ein Freilufttheater."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Hielt die innere Burg 1480?",
+          "absaetze": [
+            "Eine Darstellung berichtet, die Osmanen hätten 1480 die innere Burg von Kos nicht einnehmen können. Für das gleiche Jahr ist die große, gescheiterte Belagerung von Rhodos gut belegt. Einen gleichzeitigen Angriff auf Kos habe ich in keiner zweiten Quelle bestätigt gefunden. Ich führe ihn deshalb nur als unsichere Überlieferung an.",
+            "Sicher ist dagegen, warum die Ritter danach den äußeren Ring bauten: Gegen schwere Geschütze war eine kleine, hohe Burg zu verwundbar."
+          ]
+        }
+      ],
+      "themen": ["leben-auf-kos"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/bergfried.jpg",
+          "alt": "Blick über das Innere des Kastells mit Mauern und Turm",
+          "credit": "Pavlos1988 (Wikimedia Commons), 2015",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Castle_of_Neratzia_Kos_1.jpg",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Burgfried“, „Freilufttheater“)",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (Wall auf der Mauerkrone; Nutzung in osmanischer Zeit; ohne eigene Belege)",
+        "romeartlover.it, „Kos“, abgerufen 16.10.2026 (innere Burg 1480 nicht eingenommen; unsicher)",
+        "Wikipedia, „Siege of Rhodes (1480)“, abgerufen 16.10.2026"
+      ]
+    },
+    {
+      "id": "nordost-turm",
+      "nr": 9,
+      "bereich": "aussen",
+      "titel": "Blick nach Bodrum",
+      "untertitel": "Nordost-Turm · die Schwesterburg auf der anderen Seite",
+      "lat": 36.897503,
+      "lon": 27.290122,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Am nördlichen Ende des Kastells, beim kleinen runden Nordost-Turm, öffnet sich der Blick über die Meerenge. Die Küste gegenüber ist Kleinasien, heute die Türkei. Dort liegt Bodrum, das antike Halikarnassos.",
+            "In Bodrum steht die zweite große Burg der Johanniter in dieser Gegend, die Burg St. Peter. Großmeister Philibert de Naillac ließ sie ab etwa 1404 genau gegenüber von Kos bauen, wo der Orden schon eine Burg hatte. Ihre Türme sind nach den Nationen benannt, die sie errichteten: England, Frankreich, Deutschland, Italien. Wie hier auf Kos verwendeten die Bauleute antike Steine, dort vom Mausoleum von Halikarnassos.",
+            "Die beiden Burgen gehörten zusammen und überwachten gemeinsam die Meerenge zwischen Kos und dem Festland. Und sie endeten zusammen: Beide gingen 1523 nach der Kapitulation von Rhodos an die Osmanen."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Ein Brückenkopf auf dem Festland",
+          "absaetze": [
+            "Bodrum war für den Orden ein Stützpunkt auf dem Festland, an einer Küste, die sonst den Osmanen gehörte. Die Kapelle der Burg war um 1406/07 fertig, die ersten Mauern 1437. Unter d'Aubusson und seinen Nachfolgern wurde auch Bodrum für Kanonen umgebaut, mit einer runden Bastion wie auf Kos.",
+            "Nach 1523 wurde die Kapelle zur Moschee. Heute ist die Burg ein Museum für Unterwasserarchäologie."
+          ]
+        },
+        {
+          "ueberschrift": "Die italienische Halle",
+          "absaetze": [
+            "Im Nordosten des Kastells stand eine Halle aus der italienischen Zeit, in der ein Skulpturenmuseum untergebracht war. Bei der Restaurierung nach 2017 wurde sie abgebaut; sie soll mit modernen Mitteln nach dem alten Grundriss neu errichtet werden. Je nach Stand der Arbeiten sehen Sie hier eine Baustelle oder den Neubau."
+          ]
+        }
+      ],
+      "themen": ["osmanen-mittelmeer"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/von-see.jpg",
+          "alt": "Das Kastell vom Meer aus gesehen",
+          "credit": "sailko (Wikimedia Commons), 2013",
+          "lizenz": "CC BY-SA 3.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Castello_di_kos,_veduta_dal_mare_01.JPG",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Wikipedia, „Bodrum Castle“, abgerufen 16.10.2026 (Philibert de Naillac, Bau ab 1402/1404 gegenüber Kos, Steine vom Mausoleum, Türme der Nationen, Kapelle 1406/07, Mauern 1437, Bastion um 1500, Übergabe 1523, Museum)",
+        "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Nordost-Turm“)",
+        "Greece 2.0, „Αποκατάσταση κάστρου Νερατζιάς στη Κω“ (italienische Halle im Nordosten, Abbau und geplante Wiedererrichtung)"
+      ]
+    },
+    {
+      "id": "aubusson-turm",
+      "nr": 10,
+      "bereich": "aussen",
+      "titel": "Der Aubusson-Turm",
+      "untertitel": "Bastion zur Hafeneinfahrt · Wappen mit Kardinalshut",
+      "lat": 36.896626,
+      "lon": 27.28897,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "An der Westecke, zum Hafen hin, steht der mächtige Aubusson-Turm. Er sicherte die Hafeneinfahrt. Nach einer Beschreibung ist er eine vieleckige Bastion und vielleicht die erste, die hier gebaut wurde, schon ab 1489. Das wäre einige Jahre vor dem meist genannten Baubeginn des äußeren Rings um 1495.",
+            "Suchen Sie das Wappen des Bauherrn: Pierre d'Aubusson, Großmeister von 1476 bis 1503. Über seinem Schild sitzt ein Kardinalshut. Er zeigt, dass das Wappen nach 1489 angebracht wurde, als der Papst ihn zum Kardinal machte.",
+            "D'Aubusson war der berühmteste Großmeister der Rhodos-Zeit. 1480 verteidigte er Rhodos fast drei Monate gegen ein osmanisches Heer. Er wurde dabei dreimal verwundet, führte am Ende selbst den Gegenangriff und war danach in ganz Europa bekannt. Danach ließ er die Burgen des Ordens für das Zeitalter der Kanonen umbauen. Dieser Turm ist eines seiner Werke."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Der Prinz als Pfand",
+          "absaetze": [
+            "Zu d'Aubussons Geschichte gehört eine ungewöhnliche Episode. Cem, ein Sohn Sultan Mehmeds II., unterlag nach dessen Tod 1481 seinem Bruder Bayezid II. im Kampf um den Thron und floh zu den Johannitern nach Rhodos. D'Aubusson ließ ihn nach Frankreich bringen und dort bewachen.",
+            "Sultan Bayezid zahlte d'Aubusson für die Bewachung jährlich 45.000 Dukaten. Der Thronrivale saß also in christlicher Hand, und der Sultan bezahlte dafür, dass er dort blieb. Cem starb 1495. In diese Jahre fällt der Ausbau der Ordensfestungen, auch hier auf Kos."
+          ]
+        }
+      ],
+      "themen": ["belagerung-1457"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/aubusson-wappen.jpg",
+          "alt": "Wappen des Großmeisters Pierre d'Aubusson im Mauerwerk des Kastells",
+          "credit": "Pavlos1988 (Wikimedia Commons), 2015",
+          "lizenz": "CC BY-SA 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Coats_of_arms_of_Pierre_d%27Aubusson,_Castle_of_Nerantzia,_Kos,_Greece.JPG",
+          "basis": null
+        }
+      },
+      "quellen": [
+        "Wikipedia, „Pierre d'Aubusson“, abgerufen 16.10.2026 (1423–1503, Großmeister ab 1476, Verteidigung 1480, dreimal verwundet, Kardinal 1489, Bauprogramm, Cem und 45.000 Dukaten, Tod Cems 1495)",
+        "Wikipedia, „Siege of Rhodes (1480)“, abgerufen 16.10.2026",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (vieleckige Aubusson-Bastion im Nordwesten, Baubeginn 1489, Sicherung der Hafeneinfahrt, Wappen mit Kardinalshut; ohne eigene Belege)",
+        "Naundorf/Greiner, Kos, Michael Müller Verlag 2019, S. 26 (Plan: „Aubusson-Turm“)",
+        "Wikimedia Commons, Pavlos1988: „Coats of arms of Pierre d'Aubusson, Castle of Nerantzia“"
+      ]
+    },
+    {
+      "id": "carretto-bastion",
+      "nr": 11,
+      "bereich": "aussen",
+      "titel": "Die Bastion Del Carretto",
+      "untertitel": "Runde Artilleriebastion · Abschluss des Baus 1514",
+      "lat": 36.895131,
+      "lon": 27.290179,
+      "kurz": [
+        {
+          "ueberschrift": null,
+          "absaetze": [
+            "Die große runde Bastion an der Südwestecke ist der letzte Baustein der Festung. Sie trägt den Namen von Fabrizio del Carretto, Großmeister von 1513 bis 1521, aus einer italienischen Adelsfamilie. Mit ihr war der äußere Ring 1514 vollendet.",
+            "Die Bastion ist massiv und rund, ähnlich der Carretto-Bastion in Rhodos. Von hier konnten Geschütze den Landzugang zur Stadt und den südlichen Teil des Hafens bestreichen.",
+            "Acht Jahre nach der Fertigstellung war alles vorbei. 1522 belagerte Sultan Süleyman Rhodos und ließ auch gegen Kos und Bodrum vorgehen, damit von dort keine Hilfe kam. Erobert wurde das Kastell nicht. Es ging durch die Kapitulation von Rhodos an die Osmanen, im Januar 1523 zog die Besatzung ab. Der neue Mauerring wurde nie ernsthaft auf die Probe gestellt."
+          ]
+        }
+      ],
+      "mehr": [
+        {
+          "ueberschrift": "Rund war bald veraltet",
+          "absaetze": [
+            "Runde Türme und Bastionen hatten eine Schwäche: Direkt vor ihrer Rundung lag ein Bereich, den die Verteidiger von den Nachbarmauern aus nicht beschießen konnten, ein toter Winkel. Dort konnten sich Angreifer verstecken. In Italien entwickelten Baumeister um 1500 deshalb spitzwinklige Bastionen, von denen aus man jede Mauerflanke unter Feuer nehmen konnte.",
+            "Diese Bauweise setzte sich ab den 1530er Jahren in ganz Europa durch. Die Johanniter selbst bauten auf Malta nach diesem Prinzip; Fort St. Elmo hielt 1565 über einen Monat schwerem Beschuss stand. Wer Valletta gesehen hat, kennt diese spitzen Bastionen."
+          ]
+        },
+        {
+          "ueberschrift": "Ein Wappen und ein Rätsel",
+          "absaetze": [
+            "Das Carretto-Wappen ist in die Mauer der Bastion eingelassen. Eine griechische Datenbank für Wappen datiert ein Carretto-Wappen im Kastell auf 1494, also vor Fabrizios Zeit als Großmeister. Ob es zu einem anderen Mitglied der Familie oder zu einer früheren Amtszeit gehört, konnte ich nicht klären."
+          ]
+        }
+      ],
+      "themen": ["rhodos-1522"],
+      "bilder": {
+        "heute": {
+          "src": "img/fotos/carretto.jpg",
+          "alt": "Die runde Bastion an der Südwestecke des Kastells",
+          "credit": "Bukvoed (Wikimedia Commons), 2018",
+          "lizenz": "CC BY 4.0",
+          "link": "https://commons.wikimedia.org/wiki/File:Kos-castle-329.jpg",
+          "basis": null
+        },
+        "rekonstruktion": {
+          "src": "img/rekonstruktionen/um-1520.svg",
+          "alt": "Vogelschau der Burginsel um 1520 mit der Bastion Del Carretto",
+          "credit": "Zeichnung für diesen Begleiter",
+          "lizenz": "eigene Zeichnung",
+          "link": null,
+          "basis": "Mauerlinien nach OpenStreetMap, Gliederung nach Naundorf/Greiner (Kos, 2019), Wassergraben und Brücke nach kos.gr und viagallica.com; Höhen und Ufer angenommen"
+        }
+      },
+      "quellen": [
+        "Gemeinde Kos, kos.gr: „Castle of the Knights & Phoinikon street“, abgerufen 16.10.2026 (Vollendung 1514 unter del Carretto)",
+        "viagallica.com, „Kos Town – Castle Neratzia“, abgerufen 16.10.2026 (Lage, Form, Aufgabe der Bastion, Wappen in der Bastionsmauer; ohne eigene Belege); romeartlover.it, „Kos“ (Ähnlichkeit mit der Carretto-Bastion in Rhodos)",
+        "Pandektis/EKT, „Heraldic Monuments of Greece“ (INE/EIE): Wappen des Hauses Carretto, Fabrizio del Carretto, Großmeister 1513–1521, datiert 1494",
+        "Wikipedia, „Bastion fort“, abgerufen 16.10.2026 (toter Winkel, Entwicklung in Italien, Verbreitung ab den 1530er Jahren, Fort St. Elmo 1565)",
+        "Wikipedia, „Siege of Rhodes (1522)“; romeartlover.it, „Kos“, und Le Crac (Blog) 2014 (Truppen gegen Kos und Bodrum 1522, Abzug von Kos im Januar 1523)"
       ]
     }
   ]
