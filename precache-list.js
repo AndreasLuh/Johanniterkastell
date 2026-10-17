@@ -65,6 +65,7 @@ self.PRECACHE = [
   "audio/thema-rhodos-1522-3.mp3",
   "audio/thema-rhodos-1522-4.mp3",
   "content/audio.json",
+  "content/audio-andreas.json",
   "content/lexikon.json",
   "content/orte.json",
   "content/site.json",
@@ -111,4 +112,4 @@ self.PRECACHE = [
   "js/speech.js",
   "manifest.webmanifest"
 ];
-self.CACHE_VERSION = "a62749587829";
+self.CACHE_VERSION = "5c8c244824c4";
